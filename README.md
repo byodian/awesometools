@@ -11,12 +11,19 @@
 **我是从哪里发现这些软件的**
 
 [Softonic](https://en.softonic.com/)
+
 [NTWind Software](https://www.ntwind.com/)
+
 [SourceForge](https://sourceforge.net/)
+
 [小众软件](https://www.appinn.com/)
+
 [异次元软件](https://www.iplaysoft.com/)
+
 [itellyou](https://msdn.itellyou.cn/)
+
 [腾讯软件](https://pc.qq.com/category/c0.html)
+
 [开心软件网](http://www.ihacksoft.com/)
 
 [stardock](https://www.stardock.com/)
