@@ -216,7 +216,7 @@
 
 [PanSou](http://pansou.com/) 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确
 
-[PanSoSo]http://www.pansoso.com/) 百度网盘资源搜索引擎
+[PanSoSo](http://www.pansoso.com/) 百度网盘资源搜索引擎
 
 
 
