@@ -4,7 +4,7 @@
     <a href="http://byodian.site/Websitenavigation.html">AwesomeTools</a>
   </h1>
 
-<p align="center">Awesome Tools 意指优秀的工具，主要整理 Windows、Mac、IOS、Android、linux 、在线网站等系统下好玩、有趣、超实用的工具。</p>
+<p align="center">Awesome Tools 指优秀的工具，主要整理 Windows、Mac、IOS、Android、linux 和在线网站等系统下好玩、有趣、超实用的工具。</p>
 </div>
 
 
