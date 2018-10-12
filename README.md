@@ -39,6 +39,9 @@
 
 [墨刀](https://modao.cc/)
 
+[magicmockups](http://magicmockups.com/)
+
+
 
 
 **markdown 编辑器**
@@ -127,13 +130,19 @@
 
 [交互设计文章](http://t.cn/E74Rq2i)
 
+
+
 **产品**
 
 [互联网早读课](http://zaodula.com/)
 
+
+
 **格式转换**
 
 [LightPDF](https://lightpdf.com/zh/) PDF格式转换
+
+
 
 **英语词典**
 
@@ -149,6 +158,8 @@
 
 [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F)
 
+
+
 **国外社交媒体**
 
 [Dailymotion](https://www.dailymotion.com/jp)
@@ -162,11 +173,23 @@
 [VK](https://vk.com/)
 
 
+
+
 ## Windows 软件
 
-**云盘下载**
+**小工具合集**
 
-[速盘](https://www.speedpan.com/)
+[Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite) 微软出品
+
+
+
+**云盘搜索下载**
+
+[速盘](https://www.speedpan.com/) 百度网盘资源保持全速下载神器
+
+[PanSou](http://pansou.com/) 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确
+
+[PanSoSo]http://www.pansoso.com/) 百度网盘资源搜索引擎
 
 
 
@@ -180,39 +203,100 @@
 
 **系统管理工具**
 
-[everything](http://www.voidtools.com/) 本地搜索工具
+>  本地搜索工具
+>
+>  [everything](http://www.voidtools.com/) 
+>
+>  [Listary](https://www.listary.com/) 
 
-[clover](http://cn.ejie.me/) 文件资源管理器标签
+> 增强版文件资源管理器
+>
+>  [clover](http://cn.ejie.me/) 增强化文件资源管理器，像谷歌浏览器，支持添加标签，收藏常用文件夹为书签
+>
+>  [QTTabar](http://qttabbar.sourceforge.net/) 文件资源管理器标签
 
-[QTTabar](http://qttabbar.sourceforge.net/) 文件资源管理器标签
+[Wox](http://www.wox.one/) 快速启动工具
 
-[Total Commander](https://www.ghisler.com/index.htm)
-
-[Listary](https://www.listary.com/) 本地搜索
+[Total Commander](https://www.ghisler.com/index.htm) 文件资源管理
 
 [Windows Tabs](http://windowtabs.com/) 为应用添加标签
 
 [Close All](https://www.ntwind.com/software/utilities/close-all.html) 一键关掉所有程序
 
-[Wox](http://www.wox.one/) 快速启动工具
-
 [Ditto](https://sourceforge.net/projects/ditto-cp/) 增强版剪贴板
 
+[AltDrag](https://stefansundin.github.io/altdrag/) 桌面窗口移动、缩放增强工具
+
+[WGestures](http://www.yingdev.com/projects/wgestures) 鼠标手势操作电脑工具
+
+[AutoHotkey](https://www.autohotkey.com/) 重新映射键盘按键
+
+[Seer](http://1218.io/) 空格键预览文件内容工具，支持大部分文件格式，高级功能付费。
+
+[QuickLook](https://pooi.moe/QuickLook/?utm_source=www.appinn.com) 文件快速预览工具，免费开源。
+
+[ScreenToGif](https://www.screentogif.com/?l=zh_cn) 视频、GIf 动图录制、支持编辑。
+
+[Winstep](http://www.winstep.net/) 桌面美化工具
+
+[Autoruns](https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns) 软件自启动管理工具
 
 
 
+**系统清理卸载工具**
+
+[Total Uninstall](https://www.martau.com/uninstaller-download.php) 30 天免费试用期
+
+[CCleaner](https://pc.qq.com/detail/7/detail_1007.html)  清理临时文件夹、历史记录、回收站，扫描注册表垃圾项、可清理并附带软件卸载功能。[管网](https://www.ccleaner.com/)
+
+[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) 电脑硬盘空间可视化管理，支持删除文件、文件夹。
+
+
+
+**办公软件**
+
+[Office Tool Plus](https://otp.landian.la/zh-cn/)  Office 软件管理、下载、安装器
+
+
+
+**视频剪辑图像编辑类**
+
+> 在屏幕上实时显示按键操作录制
+>
+> [Qipress](http://aalapshah.in/qipress?utm_source=www.appinn.com) 
+>
+>  [Carnac](http://code52.org/carnac/) 
+
+[Snipaste](https://www.snipaste.com/) 截图 + 贴图工具
+
+[Picpick](https://picpick.app/zh/) 屏幕截图工具，图像编辑器，颜色选择器，颜色调色板，像素标尺，量角器，瞄准线和白板，适用于更适合做设计的人群。
+
+
+
+**护眼宝**
+
+[f.lux](https://justgetflux.com/) 护眼模式工具
+
+
+**其他**
+
+[Yomail](http://www.nextechat.com/) 邮箱管理工具，支持所有邮箱类型，一个软件就可以收取所有邮箱信息
+
+[Pomodoro](https://pomelloapp.com/) 番茄钟
+
+[Synery](https://symless.com/synergy) 鼠标键盘共享软件
 
 
 
 ## Mac 软件
 
+**系统管理工具**
 
+[Alfred](https://www.alfredapp.com/) 快速启动工具，支持快速打开软件、浏览文件、文件夹等
 
 
 
 ## IOS 软件
-
-
 
 
 
@@ -237,12 +321,12 @@
 [iTools](https://pro.itools.cn/) 苹果录屏投屏设备
 
 
-
 ## 其他
 
 **认识世界**
 
 [中国数字时代](https://chinadigitaltimes.net/chinese/)
+
 
 
 
