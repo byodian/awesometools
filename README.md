@@ -120,6 +120,7 @@
 
 [骑记](http://www.iriding.cc/community/)
 
+
 **交互设计**
 
 [微交互](http://www.weiued.com/)
@@ -131,11 +132,9 @@
 [交互设计文章](http://t.cn/E74Rq2i)
 
 
-
 **产品**
 
 [互联网早读课](http://zaodula.com/)
-
 
 
 **格式转换**
@@ -143,13 +142,11 @@
 [LightPDF](https://lightpdf.com/zh/) PDF格式转换
 
 
-
 **英语词典**
 
 [海词](http://dict.cn/)
 
 [Answers](http://www.answers.com/)
-
 
 
 **视频网站**
@@ -171,6 +168,36 @@
 [Vimeo](https://vimeo.com/286216759)
 
 [VK](https://vk.com/)
+
+
+**kindle 电子书资源**
+
+[苦瓜书盘](https://kgbook.com/) 无限制免费下载，不支持推送 kindle
+
+[epubee](http://cn.epubee.com/) 会员优先下载，普通用户支持在线阅读，或1-8 点不受限下载，不支持推送
+
+[蚂蚁搬书](http://book.mybanshu.win/) IT书籍为主
+
+[Vol.me](https://vol.moe/) 漫画书资源网，台湾地区
+
+[kindleFree](http://www.kindlefree.cn/) 小说资源网，支持推送
+
+[我的小书屋](http://mebook.cc/) IT 书籍资源
+
+[周读](http://www.ireadweek.com/index.php/bookList/1.html) 每天一推荐，不支持推送
+
+[缤闹](http://www.binnao.com/forum.php) 电子书论坛，闹币下载资源
+
+>  电子书搜索引擎类
+>
+> [Kindleshare](https://sk.kindleshare.cn/)
+>
+> [鸠摩搜索](https://www.jiumodiary.com/)
+
+[书伴](https://bookfere.com/ebook) 不支持下载、阅读，只提供Kindle 图书资源推荐
+
+[亚马逊免费电子书](http://t.cn/RkPrzFb) 
+
 
 
 
@@ -329,10 +356,11 @@
 
 
 
-
 **电子设备**
 
 [绿联](http://www.lulian.cn/)
+
+
 
 
 
