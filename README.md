@@ -104,7 +104,7 @@
 
 [DesignersPics](http://www.designerspics.com/) 免费高分辨摄影图片的博客网站
 
-[ontap](https://on.thisistap.com/) 准为 WordPress 博客用户提供免费高清图片
+[ontap](https://on.thisistap.com/) 专为 WordPress 博客用户提供免费高清图片
 
 [visualhunt](https://visualhunt.com/) 免费高清图片搜索引擎
 
