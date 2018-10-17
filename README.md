@@ -27,8 +27,8 @@
 > [开心软件网](http://www.ihacksoft.com/)
 >
 > [stardock](https://www.stardock.com/)
-
-
+>
+> [egouz](http://www.egouz.com/)
 
 
 ## 在线网站
@@ -74,6 +74,8 @@
 
 [Feedly](https://feedly.com/) RSS 订阅工具
 
+[智能裁剪图片](https://www.picdiet.com/) 智能的找到一张图片中最具视觉吸引力的区域并在线裁剪缩放至不同的分辨率、节省时间、提高效率
+
 
 
 **多媒体类**
@@ -86,6 +88,32 @@
 
 [Marmoset](https://www.marmosetmusic.com/) 背景音乐，可用于制作视频，配音等
 
+**图片类网站**
+
+[无版权图片网站集合](http://m.egouz.com/zt/wubanquan/)
+
+[pexels](https://www.pexels.com/) 支持关键词、颜色搜索
+
+[Unsplash](https://unsplash.com/) 摄影师社区推动平台、高清壁纸分享
+
+[pixabay](https://pixabay.com/zh/) 
+ 
+[New Old Stock](https://nos.twnsnd.co/) 历史照片、黑白照片
+
+[泼辣有图](http://www.polayoutu.com) 一张图片一个故事
+
+[DesignersPics](http://www.designerspics.com/) 免费高分辨摄影图片的博客网站
+
+[ontap](https://on.thisistap.com/) 准为 WordPress 博客用户提供免费高清图片
+
+[visualhunt](https://visualhunt.com/) 免费高清图片搜索引擎
+
+[pickpik](https://zh.pickpik.com/) 图片搜索引擎，人工智能将给每张图片的美感进行评分，搜索结果将按图片的审美评分排序
+
+[everypixel](https://www.everypixel.com/) 图片搜索引擎
+
+[StreetWill](http://streetwill.co/) 人文地理、自然风景类图片
+
 
 
 **导航网站**
@@ -95,8 +123,6 @@
 [大数据](http://www.afenxi.com/hao)
 
 [纳米学习导航](http://1nami.com/)
-
-[国外网站推荐](http://www.egouz.com/)
 
 [知筑](http://www.archi123.com/#/)
 
