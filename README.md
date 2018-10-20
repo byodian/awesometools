@@ -3,34 +3,11 @@
   <h1>
     <a href="http://byodian.site/Websitenavigation.html">AwesomeTools</a>
   </h1>
-
-<p align="center">Awesome Tools 指优秀的工具，主要整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。</p>
 </div>
 
-<!--TOC-->
+[![AwesomeTools](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://byodian.github.io/AwesomeTools/)
 
-> **我是从哪里发现这些软件的**
->
-> [Softonic](https://en.softonic.com/)
->
-> [NTWind Software](https://www.ntwind.com/)
->
-> [SourceForge](https://sourceforge.net/)
->
-> [小众软件](https://www.appinn.com/)
->
-> [异次元软件](https://www.iplaysoft.com/)
->
-> [itellyou](https://msdn.itellyou.cn/)
->
-> [腾讯软件](https://pc.qq.com/category/c0.html)
->
-> [开心软件网](http://www.ihacksoft.com/)
->
-> [stardock](https://www.stardock.com/)
->
-> [egouz](http://www.egouz.com/)
-
+<p align="center">Awesome Tools 指优秀的工具，主要整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。</p>
 
 ## 在线网站
 
@@ -394,6 +371,27 @@
 [绿联](http://www.lulian.cn/)
 
 
+> **我是从哪里发现这些软件的**
+>
+> [Softonic](https://en.softonic.com/)
+>
+> [NTWind Software](https://www.ntwind.com/)
+>
+> [SourceForge](https://sourceforge.net/)
+>
+> [小众软件](https://www.appinn.com/)
+>
+> [异次元软件](https://www.iplaysoft.com/)
+>
+> [itellyou](https://msdn.itellyou.cn/)
+>
+> [腾讯软件](https://pc.qq.com/category/c0.html)
+>
+> [开心软件网](http://www.ihacksoft.com/)
+>
+> [stardock](https://www.stardock.com/)
+>
+> [egouz](http://www.egouz.com/)
 
 
 
