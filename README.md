@@ -7,6 +7,7 @@
 <p align="center">Awesome Tools 指优秀的工具，主要整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。</p>
 </div>
 
+<!--TOC-->
 
 > **我是从哪里发现这些软件的**
 >
@@ -294,7 +295,9 @@
 
 [Autoruns](https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns) 软件自启动管理工具
 
+[PasteEx](https://github.com/huiyadanli/PasteEx) 快速粘贴文字、图片为文件git
 
+[minibin](https://e-sushi.net/) 回收站收入系统通知栏，双击图标清空回收站
 
 **系统清理卸载工具**
 
@@ -304,7 +307,9 @@
 
 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) 电脑硬盘空间可视化管理，支持删除文件、文件夹。
 
+[PasteEx](https://github.com/huiyadanli/PasteEx) 快速粘贴文字、图片为文件
 
+[minibin](https://e-sushi.net/) 回收站收入系统通知栏，双击图标清空回收站
 
 **办公软件**
 
