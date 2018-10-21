@@ -11,6 +11,19 @@
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有 ![Freeware][Freeware Icon] 的项目是免费软件。*
 
+> 在特定目录下的软件如果支持跨平台使用，则会用标识标注出来。
+![OS][OS Icon] - 支持 OS 系统。
+
+![iOS][iOS Icon] - 支持 iOS 系统。
+
+![Android][Android Icon] - 支持 Android 系统。
+
+![Linux][Linux Icon] - 支持 Linux 系统。
+
+![Ubuntu][Ubuntu Icon] - 支持 Ubuntu 系统。
+
+![Windows应用商店][Windowsapps Icon] - 支持 Windows UWP。
+
 ## 目录
 
 - [Windows](#windows)
@@ -361,5 +374,11 @@
 
 [OSS Icon]: ./media/oss.svg
 [Freeware Icon]: ./media/free.svg
+[OS Icon]: ./media/OS.svg
+[iOS Icon]: ./media/OS.svg
+[Android Icon]: ./media/Android.svg
+[Linux Icon]: ./media/linux.svg
+[Ubuntu Icon]: ./media/ubuntu.svg
+[Windowsapps Icon]: ./media/windows.svg
 
 
