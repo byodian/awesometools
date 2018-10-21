@@ -39,6 +39,7 @@
     - [Windows 8 设置](#windows-8-设置)
 - [IOS](#ios)
 - [Android](#android)
+- [Chrome](#chrome)
 - [在线网站](#在线网站)
 - [论坛](#论坛)
     - [Windows](#windows)
@@ -328,10 +329,10 @@
 
 - [亚马逊免费电子书](http://t.cn/RkPrzFb) 
 
-## 认识世界
+### 认识世界
 - [中国数字时代](https://chinadigitaltimes.net/chinese/)
 
-## 电子设备
+### 电子设备
 - [绿联](http://www.lulian.cn/)
 
 ## 论坛
