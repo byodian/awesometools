@@ -37,7 +37,7 @@
 - [Mac](#mac)
     - [Windows 10 设置](#windows-10-设置)
     - [Windows 8 设置](#windows-8-设置)
-- [IOS](#ios)
+- [iOS](#ios)
 - [Android](#android)
 - [Chrome](#chrome)
 - [在线网站](#在线网站)
@@ -45,7 +45,7 @@
     - [Windows](#windows)
     - [IRC 频道](#irc-频道)
     - [Reddit](#reddit)
-- [贡献](#贡献)
+    
 
 ## Windows
 
