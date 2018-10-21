@@ -5,13 +5,11 @@
   </h1>
 </div>
 
-[![AwesomeTools](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://byodian.github.io/AwesomeTools/)
-
 > *Awesome Tools 整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。*
 
 > *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)*
 
-> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有![Freeware][Freeware Icon] 的项目是免费软件。*
+> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有 ![Freeware][Freeware Icon] 的项目是免费软件。*
 
 ## 目录
 
@@ -36,7 +34,7 @@
   - [实用程序](#实用程序)
   - [视频](#视频)
   - [安全](#安全)
-- [配置与安装](#配置与安装)
+- [Mac 软件](#Mac 软件)
     - [Windows 10 设置](#windows-10-设置)
     - [Windows 8 设置](#windows-8-设置)
 - [杂项](#杂项)
