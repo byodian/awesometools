@@ -375,7 +375,7 @@
 
 [OSS Icon]: ./media/oss.svg
 [Freeware Icon]: ./media/free.svg
-[OS Icon]: ./media/os.svg
+[OS Icon]: ./media/OS.svg
 [iOS Icon]: ./media/ios.svg
 [Android Icon]: ./media/Android.svg
 [Linux Icon]: ./media/linux.svg
