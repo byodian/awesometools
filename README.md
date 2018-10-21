@@ -11,7 +11,7 @@
 
 > *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)*
 
-> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有![Freeware][Freeware Icon] 的项目是免费软件。*
+> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有 ![Freeware][Freeware Icon] 的项目是免费软件。*
 
 ## 在线网站
 
@@ -399,9 +399,8 @@
 
 
 
-[OSS Icon]: 
-
-[Freeware Icon]: 
+[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
 
 
