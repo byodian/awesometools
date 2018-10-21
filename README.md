@@ -69,7 +69,7 @@
 ### 系统管理工具
 - [everything](http://www.voidtools.com/) - ![Freeware][Freeware Icon]
 
-- [Listary](https://www.listary.com/) - 本地搜索工具 
+- [Listary](https://www.listary.com/) - 本地搜索工具。 
 
 - [clover](http://cn.ejie.me/) - 增强版文件资源管理器，像谷歌浏览器，支持添加标签，收藏常用文件夹为书签。
 
