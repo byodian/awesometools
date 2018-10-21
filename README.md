@@ -13,7 +13,7 @@
 
 ## 目录
 
-- [Windows 软件](#Windows软件)
+- [Windows](#Windows)
   - [音频](#音频)
   - [聊天客户端](#聊天客户端)
   - [压缩](#压缩)
@@ -34,17 +34,19 @@
   - [实用程序](#实用程序)
   - [视频](#视频)
   - [安全](#安全)
-- [Mac 软件](#Mac软件)
+- [Mac](#Mac)
     - [Windows 10 设置](#windows-10-设置)
     - [Windows 8 设置](#windows-8-设置)
-- [杂项](#杂项)
+- [IOS](#IOS)
+- [Android](#Android)
+- [在线网站](#IOS)
 - [论坛](#论坛)
     - [Windows](#windows)
     - [IRC 频道](#irc-频道)
     - [Reddit](#reddit)
 - [贡献](#贡献)
 
-## Windows 软件
+## Windows
 
 ### 小工具合集
 - [Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite) 微软出品
@@ -140,14 +142,14 @@
 
 - [Synery](https://symless.com/synergy) 鼠标键盘共享软件
 
-## Mac 软件
+## Mac 
 
 ### 系统管理工具
 - [Alfred](https://www.alfredapp.com/) 快速启动工具，支持快速打开软件、浏览文件、文件夹等
 
-## IOS 软件
+## IOS 
 
-## Android 软件
+## Android 
 
 ### 投屏工具
 - [蓝叠](http://www.bluestacks.cn/)
@@ -354,7 +356,7 @@
 - [egouz](http://www.egouz.com/)
 
 
-**[⬆ 回到顶部](#应用程序)**
+**[⬆ 回到顶部](#Windows)**
 
 ## 版权
 
