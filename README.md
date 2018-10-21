@@ -14,10 +14,10 @@
 ## 目录
 
 - [Windows](#windows)
-  - [音频](#音频)
-  - [聊天客户端](#聊天客户端)
+  - [效率工具](#效率工具)
+  - [系统管理](#系统管理)
   - [压缩](#压缩)
-  - [个性化](#个性化)
+  - [压缩](#备份)
   - [数据恢复](#数据恢复)
   - [开发者工具](#开发者工具)
   - [文档](#文档)
@@ -49,37 +49,12 @@
 
 ## Windows
 
-### 小工具合集
-- [Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite) 微软出品。
-
-
-
-### 云盘搜索下载
-- [速盘](https://www.speedpan.com/) - 百度网盘资源保持全速下载神器。
-
-- [PanSou](http://pansou.com/) - 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确。
-
-- [PanSoSo](http://www.pansoso.com/) - 百度网盘资源搜索引擎。
-
-### 智能机器人
-- [酷Q](https://cqp.cc/) - 
-
-- [图灵机器人](http://www.tuling123.com/) - 
-
-### 系统管理工具
+### 效率工具
 - [everything](http://www.voidtools.com/) - ![Freeware][Freeware Icon]
 
 - [Listary](https://www.listary.com/) - 本地搜索工具。 
 
-- [clover](http://cn.ejie.me/) - 增强版文件资源管理器，像谷歌浏览器，支持添加标签，收藏常用文件夹为书签。
-
-- [QTTabar](http://qttabbar.sourceforge.net/) - 文件资源管理器标签。 ![Freeware][Freeware Icon]
-
 - [Wox](http://www.wox.one/) - 快速启动工具。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
-
-- [Total Commander](https://www.ghisler.com/index.htm) - 文件资源管理。
-
-- [Windows Tabs](http://windowtabs.com/) - 为应用添加标签。 ![Freeware][Freeware Icon]
 
 - [Close All](https://www.ntwind.com/software/utilities/close-all.html) - 一键关掉所有程序。 ![Freeware][Freeware Icon]
 
@@ -93,18 +68,14 @@
 
 - [Seer](http://1218.io/) - 空格键预览文件内容工具，支持大部分文件格式，高级功能付费。
 
-- [QuickLook](https://pooi.moe/QuickLook/?utm_source=www.appinn.com) - 文件快速预览工具，免费开源。 [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook) ![Freeware][Freeware Icon]
-
-- [ScreenToGif](https://www.screentogif.com/?l=zh_cn) - 视频、GIf 动图录制、支持编辑。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif) ![Freeware][Freeware Icon]
+- [QuickLook](https://pooi.moe/QuickLook/?utm_source=www.appinn.com) - 文件快速预览工具。 [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook) ![Freeware][Freeware Icon]
 
 - [Winstep](http://www.winstep.net/) - 桌面美化工具 ![Freeware][Freeware Icon]
 
-- [Autoruns](https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns) - 软件自启动管理工具。 ![Freeware][Freeware Icon]
-
 - [PasteEx](https://github.com/huiyadanli/PasteEx) - 快速粘贴文字、图片为文件git。[![Open-Source Software][OSS Icon]](https://github.com/huiyadanli/PasteEx) ![Freeware][Freeware Icon]
 
-### 系统清理卸载工具
-- [Total Uninstall](https://www.martau.com/uninstaller-download.php) - 
+### 系统管理
+- [Total Uninstall](https://www.martau.com/uninstaller-download.php) - 卸载工具，轻松清理注册表数据。
 
 - [CCleaner](https://pc.qq.com/detail/7/detail_1007.html)  - 清理临时文件夹、历史记录、回收站，扫描注册表垃圾项、可清理并附带软件卸载功能。[管网](https://www.ccleaner.com/)
 
@@ -112,25 +83,53 @@
 
 - [minibin](https://e-sushi.net/) - 回收站收入系统通知栏，双击图标清空回收站。 ![Freeware][Freeware Icon]
 
-### 办公软件
-- [Office Tool Plus](https://otp.landian.la/zh-cn/)  - Office 软件管理、下载、安装器。
+- [Autoruns](https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns) - 软件自启动管理工具。 ![Freeware][Freeware Icon]
 
+- [clover](http://cn.ejie.me/) - 增强版文件资源管理器，像谷歌浏览器，支持添加标签，收藏常用文件夹为书签。
 
+- [QTTabar](http://qttabbar.sourceforge.net/) - 文件资源管理器标签。 ![Freeware][Freeware Icon]
 
-### 视频剪辑图像编辑类
+- [Total Commander](https://www.ghisler.com/index.htm) - 文件资源管理。
 
+- [Windows Tabs](http://windowtabs.com/) - 为应用添加标签。 ![Freeware][Freeware Icon]
 
-- [Qipress](http://aalapshah.in/qipress?utm_source=www.appinn.com) - 在屏幕上实时显示按键操作录制。 ![Freeware][Freeware Icon]
+### 压缩
 
-- [Carnac](http://code52.org/carnac/) - 在屏幕上实时显示按键操作录制。 ![Freeware][Freeware Icon]
+### 备份
 
+### 云盘资源搜索下载
+- [速盘](https://www.speedpan.com/) - 百度网盘资源保持全速下载神器。
+
+- [PanSou](http://pansou.com/) - 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确。
+
+- [PanSoSo](http://www.pansoso.com/) - 百度网盘资源搜索引擎。
+
+### 截图
 - [Snipaste](https://www.snipaste.com/) - 截图 + 贴图工具。
 
 - [Picpick](https://picpick.app/zh/) - 屏幕截图工具，图像编辑器，颜色选择器，颜色调色板，像素标尺，量角器，瞄准线和白板，适用于更适合做设计的人群。
 
-### 护眼宝
-- [f.lux](https://justgetflux.com/) - 护眼模式工具。
+### 录制
+- [Qipress](http://aalapshah.in/qipress?utm_source=www.appinn.com) - 在屏幕上实时显示按键操作。 ![Freeware][Freeware Icon]
 
+- [Carnac](http://code52.org/carnac/) - 在屏幕上实时显示按键操作。 ![Freeware][Freeware Icon]
+
+- [ScreenToGif](https://www.screentogif.com/?l=zh_cn) - 视频、GIf 动图录制，支持编辑。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif) ![Freeware][Freeware Icon]
+
+### 视频
+
+### 音频
+
+### 智能机器人
+- [酷Q](https://cqp.cc/) - 
+
+- [图灵机器人](http://www.tuling123.com/) - 
+
+### 办公软件
+- [Office Tool Plus](https://otp.landian.la/zh-cn/)  - Office 软件管理、下载、安装器。
+
+### 小工具合集
+- [Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite) 微软出品。
 
 ### 其他
 - [Yomail](http://www.nextechat.com/) - 邮箱管理工具，支持所有邮箱类型，一个软件就可以收取所有邮箱信息。
@@ -139,9 +138,11 @@
 
 - [Synery](https://symless.com/synergy) - 鼠标键盘共享软件。
 
+- [f.lux](https://justgetflux.com/) - 护眼模式工具。
+
 ## Mac 
 
-### 系统管理工具
+### 个性化
 - [Alfred](https://www.alfredapp.com/) - 快速启动工具，支持快速打开软件、浏览文件、文件夹等 。
 
 ## IOS 
