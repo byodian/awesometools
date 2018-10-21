@@ -5,8 +5,6 @@
   </h1>
 </div>
 
-[![AwesomeTools](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://byodian.github.io/AwesomeTools/)
-
 > *Awesome Tools 整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。*
 
 > *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)*
