@@ -34,12 +34,12 @@
   - [实用程序](#实用程序)
   - [视频](#视频)
   - [安全](#安全)
-- [Mac](#Mac)
+- [Mac](#mac)
     - [Windows 10 设置](#windows-10-设置)
     - [Windows 8 设置](#windows-8-设置)
-- [IOS](#IOS)
-- [Android](#Android)
-- [在线网站](#IOS)
+- [IOS](#ios)
+- [Android](#android)
+- [在线网站](#在线网站)
 - [论坛](#论坛)
     - [Windows](#windows)
     - [IRC 频道](#irc-频道)
@@ -356,7 +356,7 @@
 - [egouz](http://www.egouz.com/)
 
 
-**[⬆ 回到顶部](#Windows)**
+**[⬆ 回到顶部](#windows)**
 
 ## 版权
 
