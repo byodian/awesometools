@@ -17,34 +17,38 @@
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
   - [压缩](#压缩)
-  - [压缩](#备份)
-  - [数据恢复](#数据恢复)
-  - [开发者工具](#开发者工具)
-  - [文档](#文档)
-  - [电子书实用程序](#电子书实用程序)
-  - [电子邮件](#电子邮件)
-  - [游戏](#游戏)
-  - [图形](#图形)
-  - [在线存储](#在线存储)
   - [备份](#备份)
-  - [生产力工具](#生产力工具)
-  - [终端](#终端)
-  - [文本编辑器](#文本编辑器)
-  - [集成开发环境](#集成开发环境)
-  - [实用程序](#实用程序)
+  - [云盘资源搜索下载](#云盘资源搜索下载)
+  - [截图](#截图)
+  - [录制](#录制)
   - [视频](#视频)
-  - [安全](#安全)
+  - [音频](#音频)
+  - [智能机器人](#智能机器人)
+  - [办公软件](#办公软件)
+  - [小工具合集](#小工具合集)
+  - [其他](#其他)
 - [Mac](#mac)
-    - [Windows 10 设置](#windows-10-设置)
-    - [Windows 8 设置](#windows-8-设置)
+    - [个性化](个性化)
 - [iOS](#ios)
 - [Android](#android)
 - [Chrome](#chrome)
 - [在线网站](#在线网站)
+  - [导航网站](#导航网站)
+  - [兴趣爱好平台](#兴趣爱好平台)
+  - [电子书资源](#电子书资源)
+  - [产品&设计](#产品&设计)
+  - [markdown编辑器](#markdown编辑器)
+  - [短视频&背景音乐](#短视频&背景音乐)
+  - [在线工具](#在线工具)
+  - [格式转换](#格式转换)
+  - [英语词典](#英语词典)
+  - [国外社交媒体](#国外社交媒体)
+  - [认识世界](#认识世界)
+  - [电子设备](#电子设备)
+  
 - [论坛](#论坛)
     - [Windows](#windows)
-    - [IRC 频道](#irc-频道)
-    - [Reddit](#reddit)
+
     
 
 ## Windows
@@ -170,14 +174,7 @@
 
 ## 在线网站
 
-### 原型制作
-- [MockPhone](https://mockuphone.com/) - 
-
-- [墨刀](https://modao.cc/) - 
-
-- [magicmockups](http://magicmockups.com/) - 
-
-### markdown 编辑器
+### markdown编辑器
 - [Typora](https://www.typora.io/) - 
 
 - [md1A](http://md.aclickall.com/) - 
@@ -205,7 +202,7 @@
 
 - [智能裁剪图片](https://www.picdiet.com/) -  智能的找到一张图片中最具视觉吸引力的区域并在线裁剪缩放至不同的分辨率、节省时间、提高效率。
 
-### 多媒体类
+### 短视频&背景音乐
 - [Adobe Spark](https://spark.adobe.com/sp/) -  制作公司宣传视频小工具。
 
 - [Pexels Videos](https://videos.pexels.com/) -  短视频网站。
@@ -214,7 +211,7 @@
 
 - [Marmoset](https://www.marmosetmusic.com/) -  背景音乐，可用于制作视频，配音等。
 
-### 图片类网站
+### 图片资源网站
 - [无版权图片网站集合](http://m.egouz.com/zt/wubanquan/) - 
 
 - [pexels](https://www.pexels.com/) -  支持关键词、颜色搜索。
@@ -265,17 +262,22 @@
 
 - [骑记](http://www.iriding.cc/community/) - 
 
-### 交互设计
-- [微交互](http://www.weiued.com/) - 
-
-- [UXRen](http://uxren.cn/) - 
-
-- [IXDC](http://ixdc.org/) - 
-
-- [交互设计文章](http://t.cn/E74Rq2i) - 
-
-### 产品
+### 产品&设计
 - [互联网早读课](http://zaodula.com/) - 
+
+- [MockPhone](https://mockuphone.com/) - 原型制作工具。
+
+- [墨刀](https://modao.cc/) - 原型制作工具。
+
+- [magicmockups](http://magicmockups.com/) - 原型制作工具。
+
+- [微交互](http://www.weiued.com/) - 交互设计类。
+
+- [UXRen](http://uxren.cn/) - 交互设计类。
+
+- [IXDC](http://ixdc.org/) - 交互设计类。
+
+- [交互设计文章](http://t.cn/E74Rq2i) - 交互设计类。
 
 ### 格式转换
 - [LightPDF](https://lightpdf.com/zh/) -  PDF格式转换。
@@ -284,11 +286,6 @@
 - [海词](http://dict.cn/) - 
 
 - [Answers](http://www.answers.com/) - 
-
-### 视频网站
-- [Netflix](https://www.netflix.com/) - 
-
-- [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) - 
 
 ### 国外社交媒体
 - [Dailymotion](https://www.dailymotion.com/jp) - 
@@ -301,7 +298,11 @@
 
 - [VK](https://vk.com/) - 
 
-### kindle 电子书资源
+- [Netflix](https://www.netflix.com/) - 
+
+- [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) - 
+
+### 电子书资源
 - [苦瓜书盘](https://kgbook.com/) -  无限制免费下载，不支持推送 kindle。
 
 - [epubee](http://cn.epubee.com/) -  会员优先下载，普通用户支持在线阅读，或1-8 点不受限下载，不支持推送。
