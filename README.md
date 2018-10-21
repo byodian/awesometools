@@ -365,7 +365,7 @@
 
 此项目基于[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[OSS Icon]: ./media/oss.svg
+[Freeware Icon]: ./media/free.svg
 
 
