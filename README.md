@@ -7,7 +7,7 @@
 
 > *Awesome Tools 整理 Windows、MacOS、iOS、Android、linux 等系统下好玩、有趣、超实用的工具。*
 
-> *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)*
+> *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)、AmazingApps' [Windows 绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)*
 
 **标识说明**
 
@@ -29,7 +29,7 @@
 
 ![Ubuntu][Ubuntu Icon] - 支持 Ubuntu 系统。
 
-![Windows应用商店][Windowsapps Icon] - 支持 Windows UWP。
+![Windows应用商店][Windowsapps Icon] - 支持 Windows 系统。
 
 ## 目录
 
