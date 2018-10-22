@@ -9,9 +9,13 @@
 
 > *这个 AwesomeTools 项目灵感来源于 ichait's [Awesome macOS](https://github.com/iCHAIT/awesome-macOS "Awesome macOS")、Awesome-Windows [Awesome](https://github.com/Awesome-Windows/Awesome.git)*
 
-> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件并且链接到源代码。 标有 ![Freeware][Freeware Icon] 的项目是免费软件。*
+**标识说明**
 
-> 在特定目录下的软件如果支持跨平台使用，则会用标识标注出来。
+![Open-Source Software][OSS Icon] - 项目是开源软件且链接到源代码。 
+
+![Freeware][Freeware Icon] - 项目是免费软件。
+
+> 在特定目录下的软件如果支持跨平台使用，则会用下面的标识标注出来。
 
 ![OS][OS Icon] - 支持 OS 系统。
 
@@ -50,9 +54,9 @@
   - [导航网站](#导航网站)
   - [兴趣爱好平台](#兴趣爱好平台)
   - [电子书资源](#电子书资源)
-  - [产品&设计](#产品&设计)
+  - [产品和设计](#产品和设计)
   - [markdown编辑器](#markdown编辑器)
-  - [短视频&背景音乐](#短视频&背景音乐)
+  - [短视频&背景音乐](#短视频背景音乐)
   - [在线工具](#在线工具)
   - [格式转换](#格式转换)
   - [英语词典](#英语词典)
@@ -212,7 +216,7 @@
 
 - [智能裁剪图片](https://www.picdiet.com/) -  智能的找到一张图片中最具视觉吸引力的区域并在线裁剪缩放至不同的分辨率、节省时间、提高效率。
 
-### 短视频&背景音乐
+### 短视频背景音乐
 - [Adobe Spark](https://spark.adobe.com/sp/) -  制作公司宣传视频小工具。
 
 - [Pexels Videos](https://videos.pexels.com/) -  短视频网站。
@@ -272,7 +276,7 @@
 
 - [骑记](http://www.iriding.cc/community/) - 
 
-### 产品&设计
+### 产品和设计
 - [互联网早读课](http://zaodula.com/) - 
 
 - [MockPhone](https://mockuphone.com/) - 原型制作工具。
