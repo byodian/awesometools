@@ -11,9 +11,11 @@
 
 **标识说明**
 
-![Open-Source Software][OSS Icon] - 项目是开源软件且链接到源代码。 
+![Open-Source Software][OSS Icon] - 开源软件且链接到源代码。 
 
-![Freeware][Freeware Icon] - 项目是免费软件。
+![Freeware][Freeware Icon] - 免费软件。
+
+![unFreeware][unFreeware Icon] - 付费软件。
 
 > 在特定目录下的软件如果支持跨平台使用，则会用下面的标识标注出来。
 
@@ -385,5 +387,6 @@
 [Linux Icon]: ./media/linux.svg
 [Ubuntu Icon]: ./media/ubuntu.svg
 [Windowsapps Icon]: ./media/windows.svg
+[unFreeware Icon]: ./media/美元.svg
 
 
