@@ -31,7 +31,7 @@
 
 ![Windows][Windowsapps Icon] - 支持 Windows 系统。
 
-![Windows store][Store Icon] - Windows 应用商店可下载。
+![Windows store][Store Icon] - Windows 10 应用商店可下载。
 ## 目录
 
 - [Windows](#windows)
@@ -79,7 +79,7 @@
 
 - [Close All](https://www.ntwind.com/software/utilities/close-all.html) - 一键关掉所有程序。 ![Freeware][Freeware Icon]
 
-- [Ditto](https://ditto-cp.sourceforge.io/) - 剪贴板扩展，搜索粘贴之前复制的内容，支持保存多种类型的文件。 ![Freeware][Freeware Icon]
+- [Ditto](https://ditto-cp.sourceforge.io/) - 剪贴板扩展，搜索粘贴之前复制的内容，支持保存多种类型的文件。 ![Freeware][Freeware Icon] ![Windows store][Store Icon]
 
 - [AltDrag](https://stefansundin.github.io/altdrag/) - 移动、缩放窗口工具，按住 alt，轻松拖动窗口。 [![Open-Source Software][OSS Icon]](https://github.com/stefansundin/altdrag) ![Freeware][Freeware Icon]
 
@@ -89,7 +89,7 @@
 
 - [Seer](http://1218.io/) - 空格键预览文件内容工具，支持大部分文件格式，高级功能付费。
 
-- [QuickLook](https://pooi.moe/QuickLook/?utm_source=www.appinn.com) - 文件快速预览工具。 [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook) ![Freeware][Freeware Icon]
+- [QuickLook](https://pooi.moe/QuickLook/?utm_source=www.appinn.com) - 文件快速预览工具。 [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook) ![Freeware][Freeware Icon] ![Windows store][Store Icon]
 
 - [Winstep](http://www.winstep.net/) - 桌面美化工具 ![Freeware][Freeware Icon]
 
@@ -126,7 +126,7 @@
 - [PanSoSo](http://www.pansoso.com/) - 百度网盘资源搜索引擎。
 
 ### 截图
-- [Snipaste](https://www.snipaste.com/) - 截图 + 贴图工具。
+- [Snipaste](https://www.snipaste.com/) - 截图 + 贴图工具。 ![Freeware][Freeware Icon] ![Windows store][Store Icon] ![OS][OS Icon]
 
 - [Picpick](https://picpick.app/zh/) - 屏幕截图工具，图像编辑器，颜色选择器，颜色调色板，像素标尺，量角器，瞄准线和白板，适用于更适合做设计的人群。
 
