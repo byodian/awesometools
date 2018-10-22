@@ -29,8 +29,9 @@
 
 ![Ubuntu][Ubuntu Icon] - 支持 Ubuntu 系统。
 
-![Windows应用商店][Windowsapps Icon] - 支持 Windows 系统。
+![Windows][Windowsapps Icon] - 支持 Windows 系统。
 
+![Windows store][Store Icon] - Windows 应用商店可下载。
 ## 目录
 
 - [Windows](#windows)
@@ -388,5 +389,5 @@
 [Ubuntu Icon]: ./media/ubuntu.svg
 [Windowsapps Icon]: ./media/windows.svg
 [unFreeware Icon]: ./media/美元.svg
-
+[Store Icon]: ./media/store.png
 
