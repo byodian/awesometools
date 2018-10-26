@@ -344,9 +344,6 @@
 
 - [亚马逊免费电子书](http://t.cn/RkPrzFb) -  
 
-### 认识世界
-- [中国数字时代](https://chinadigitaltimes.net/chinese/) - 
-
 ### 电子设备
 - [绿联](http://www.lulian.cn/) - 
 
