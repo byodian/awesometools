@@ -130,6 +130,8 @@
 
 - [Picpick](https://picpick.app/zh/) - 屏幕截图工具，图像编辑器，颜色选择器，颜色调色板，像素标尺，量角器，瞄准线和白板，适用于更适合做设计的人群。
 
+- [ShareX](https://getsharex.com/) - 屏幕截图。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon] ![Windows store][Store Icon]
+
 ### 录制
 - [Qipress](http://aalapshah.in/qipress?utm_source=www.appinn.com) - 在屏幕上实时显示按键操作。 ![Freeware][Freeware Icon]
 
