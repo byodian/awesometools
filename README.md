@@ -325,27 +325,27 @@
 ### 电子书资源
 - [苦瓜书盘](https://kgbook.com/) -  无限制免费下载，不支持推送 kindle。
 
-- [epubee](http://cn.epubee.com/) -  会员优先下载，普通用户支持在线阅读，或1-8 点不受限下载，不支持推送。
-
 - [蚂蚁搬书](http://book.mybanshu.win/) -  IT书籍为主。
-
-- [Vol.me](https://vol.moe/) -  漫画书资源网，台湾地区。
-
-- [kindleFree](http://www.kindlefree.cn/) -  小说资源网，支持推送。
 
 - [我的小书屋](http://mebook.cc/) -  IT 书籍资源。
 
-- [周读](http://www.ireadweek.com/index.php/bookList/1.html) -  每天一推荐，不支持推送。
+- [Kindleshare](https://sk.kindleshare.cn/) - 电子书资源搜索引擎。
 
-- [缤闹](http://www.binnao.com/forum.php) -  电子书论坛，闹币下载资源。
+- [鸠摩搜索](https://www.jiumodiary.com/) - 电子书资源搜索引擎。
 
-- [Kindleshare](https://sk.kindleshare.cn/) - 
+- [epubee](http://cn.epubee.com/) - 会员优先下载，普通用户支持在线阅读，或1-8 点不受限下载，不支持推送。
 
-- [鸠摩搜索](https://www.jiumodiary.com/) - 
+- [Vol.me](https://vol.moe/) - 漫画书资源网，台湾地区。
 
-- [书伴](https://bookfere.com/ebook) -  不支持下载、阅读，只提供Kindle 图书资源推荐。
+- [kindleFree](http://www.kindlefree.cn/) - 小说资源网，支持推送。
 
-- [亚马逊免费电子书](http://t.cn/RkPrzFb) -  
+- [周读](http://www.ireadweek.com/index.php/bookList/1.html) - 每天一推荐，不支持推送。
+
+- [缤闹](http://www.binnao.com/forum.php) - 电子书论坛，闹币下载资源。
+
+- [书伴](https://bookfere.com/ebook) - 不支持下载、阅读，只提供Kindle 图书资源推荐。
+
+- [亚马逊免费电子书](http://t.cn/RkPrzFb) - 亚马逊官方网站免费电子书资源。
 
 ### 电子设备
 - [绿联](http://www.lulian.cn/) - 
