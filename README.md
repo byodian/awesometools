@@ -122,9 +122,9 @@
 
 - [PanDownload](http://pandownload.com/) - 百度网盘资源快速下载器。 ![Windows][Windowsapps Icon]
 
-- [PanSou](http://pansou.com/) - 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确。
+- [Panduoduo](http://www.panduoduo.net/) - 网盘搜索神器，收录百度云盘资源和新浪微盘资源等。每天更新各类视频，种子，小说，壁纸，音乐等优质网盘资源。
 
-- [PanSoSo](http://www.pansoso.com/) - 百度网盘资源搜索引擎。
+- [PanSoSo](http://www.pansoso.com/) - 国内老牌的百度网盘搜索引擎,百度网盘,乐视云盘搜索,迅雷快传,可乐云盘,华为网盘等多种优秀网盘搜索集一身。
 
 ### 截图
 - [Snipaste](https://www.snipaste.com/) - 截图 + 贴图工具。 ![Freeware][Freeware Icon] ![Windows store][Store Icon] ![OS][OS Icon]
