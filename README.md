@@ -64,7 +64,6 @@
   - [格式转换](#格式转换)
   - [英语词典](#英语词典)
   - [国外社交媒体](#国外社交媒体)
-  - [认识世界](#认识世界)
   - [电子设备](#电子设备)
 - [论坛](#论坛)
 
@@ -119,7 +118,9 @@
 ### 备份
 
 ### 云盘资源搜索下载
-- [速盘](https://www.speedpan.com/) - 百度网盘资源保持全速下载神器。
+- [速盘](https://www.speedpan.com/) - 百度网盘资源快速下载器。 ![Windows][Windowsapps Icon]
+
+- [PanDownload](http://pandownload.com/) - 百度网盘资源快速下载器。 ![Windows][Windowsapps Icon]
 
 - [PanSou](http://pansou.com/) - 网盘资源搜索引擎，来自于Google自定义搜索，搜索结果家较准确。
 
