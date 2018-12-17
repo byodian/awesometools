@@ -51,7 +51,7 @@
     - [个性化](个性化)
 - [iOS](#ios)
 - [Android](#android)
-- [Chrome扩展](#chrome)
+- [chrome扩展](#chrome扩展)
 - [在线网站](#在线网站)
   - [导航网站](#导航网站)
   - [兴趣爱好平台](#兴趣爱好平台)
@@ -192,7 +192,7 @@
 
 - [iTools](https://pro.itools.cn/) - 苹果录屏投屏设备。
 
-## Chrome扩展(需翻墙)
+## chrome扩展(需翻墙)
 
 ### github相关
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=zh-CN) - github 项目目录。
