@@ -192,7 +192,7 @@
 
 - [iTools](https://pro.itools.cn/) - 苹果录屏投屏设备。
 
-## chrome扩展(需翻墙)
+## chrome扩展
 
 ### github相关
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=zh-CN) - github 项目目录。
