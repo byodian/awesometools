@@ -152,6 +152,8 @@
 
 ### 办公
 - [Office Tool Plus](https://otp.landian.la/zh-cn/)  - Office 软件管理、下载、安装器。
+
+- [Piti](https://www.piti.fun/) - 快速制作 ppt 的插件工具。
 - [万彩办公大师](http://www.wofficebox.com/) - 办公小工具百宝箱。![Windows][Windowsapps Icon]
 
 ### 小工具合集
