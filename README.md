@@ -194,6 +194,10 @@
 
 ## chrome扩展
 
+- [Vimium](http://vimium.github.io/) 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键。
+
+- [Link Grabber](https://chrome.google.com/webstore/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma?utm_source=chrome-ntp-icon) 一键提取网页链接。
+
 ### github相关
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=zh-CN) - github 项目目录。
 
@@ -245,7 +249,7 @@
 
 - [Unsplash](https://unsplash.com/) -  摄影师社区推动平台、高清壁纸分享。
 
-- [pixabay](https://pixabay.com/zh/) -  
+- [pixabay](https://pixabay.com/zh/) -  中英文免费高清图片库。
  
 - [New Old Stock](https://nos.twnsnd.co/) -  历史照片、黑白照片。
 
@@ -262,6 +266,12 @@
 - [everypixel](https://www.everypixel.com/) -  图片搜索引擎。
 
 - [StreetWill](http://streetwill.co/) -  人文地理、自然风景类图片。
+
+### 航拍爱好者网站
+
+- [天空之城](https://www.skypixel.com/) - 全球航拍爱好者和专业摄影师社交平台。
+
+- [大疆论坛](https://bbs.dji.com/) - 航拍教程、设备交流平台。
 
 ### 导航网站
 - [虫部落](http://www.chongbuluo.com/) - 
