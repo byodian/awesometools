@@ -200,6 +200,7 @@
 
 - [Link Grabber](https://chrome.google.com/webstore/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma?utm_source=chrome-ntp-icon) 一键提取网页链接。
 
+- [Video Speed Controller](https://github.com/igrigorik/videospeed) - 网页视频播放加速器，最高 16 倍速。
 ### github相关
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=zh-CN) - github 项目目录。
 
