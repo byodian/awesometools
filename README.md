@@ -75,6 +75,8 @@
 
 - [Wox](http://www.wox.one/) - 快速启动工具。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 
+- [uTools](https://u.tools/) - 快速启动工具。![OS][OS Icon]![OS][OS Icon]
+
 - [Close All](https://www.ntwind.com/software/utilities/close-all.html) - 一键关掉所有程序。 ![Freeware][Freeware Icon]
 
 - [Ditto](https://ditto-cp.sourceforge.io/) - 剪贴板扩展，搜索粘贴之前复制的内容，支持保存多种类型的文件。 ![Freeware][Freeware Icon] ![Windows store][Store Icon]
