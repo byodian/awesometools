@@ -205,7 +205,13 @@
 
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=zh-CN) - 显示 github 仓库大小。
 
-## 在线网站
+## 好用网站
+
+### GitHub相关
+
+- [GitHub Topic](https://github.com/topics) - github 中优秀的项目。
+
+- [GitHub Trend](https://github.com/trending) - github 每天受欢迎的项目排行。
 
 ### markdown编辑器
 - [Typora](https://www.typora.io/) - 
