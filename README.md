@@ -65,6 +65,8 @@
   - [国外视频流媒体](#国外视频流媒体)
   - [Kindle 电子书资源](#kindle电子书资源)
   - [电子设备](#电子设备)
+  - [虚拟电话&邮箱](#虚拟电话&邮箱)
+  - [编程相关](#编程相关)  
 - [论坛](#论坛)
 
 ## Windows
@@ -147,6 +149,16 @@
 ## IOS 
 
 ## Android 
+
+### 开源应用市场
+- [XDA labs](https://labs.xda-developers.com/) - 一个允许开发者自由分发和推广应用程序的平台。
+- [F-Droid](https://f-droid.org/en/) - 一个免费开源的安卓应用市场。
+ 
+
+ ### Youtube 第三方客户端
+ - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - 轻量级 Youtube 客户端，支持后台视频播放。
+ - [YMusic](https://ymusic.io/) - 音乐（音频）播放器，支持后台播放 Youtube 音乐。
+
 
 ### 投屏工具
 - [蓝叠](http://www.bluestacks.cn/) - 
@@ -292,6 +304,14 @@
 
 ### 电子设备
 - [绿联](http://www.lulian.cn/) - 
+
+### 虚拟电话&邮箱
+- [TemMail](https://temp-mail.org/) - 虚拟邮箱服务。
+- [SMSReceiveFree](https://smsreceivefree.com/) -临时电话号码，免费接受短信验证码。
+
+### 编程相关
+- [Twilio](https://www.twilio.com/docs/) - wilio是一家云通信平台,允许软件开发人员使用其Web服务API以编程方式拨打和接听电话，发送和接收文本消息以及执行其他通信功能。
+
 
 ## 发现
 - [Softonic](https://en.softonic.com/)
