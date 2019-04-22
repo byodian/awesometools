@@ -65,7 +65,7 @@
   - [国外视频流媒体](#国外视频流媒体)
   - [Kindle 电子书资源](#kindle电子书资源)
   - [电子设备](#电子设备)
-  - [虚拟电话&邮箱](#虚拟电话&邮箱)
+  - [虚拟信息](#虚拟信息)
   - [编程相关](#编程相关)  
 - [论坛](#论坛)
 
@@ -211,6 +211,7 @@
 - [深蓝阅读](http://bluereader.org) -  RSS 订阅工具。
 - [Feedly](https://feedly.com/) -  RSS 订阅工具。
 - [智能裁剪图片](https://www.picdiet.com/) -  智能的找到一张图片中最具视觉吸引力的区域并在线裁剪缩放至不同的分辨率、节省时间、提高效率。
+- [IP 地址检测](https://whatismyipaddress.com/) - IP 地址检测、网速检测
 
 ### 短视频背景音乐
 - [Adobe Spark](https://spark.adobe.com/sp/) -  制作公司宣传视频小工具。
@@ -305,9 +306,12 @@
 ### 电子设备
 - [绿联](http://www.lulian.cn/) - 
 
-### 虚拟电话&邮箱
+### 虚拟信息
 - [TemMail](https://temp-mail.org/) - 虚拟邮箱服务。
 - [SMSReceiveFree](https://smsreceivefree.com/) -临时电话号码，免费接受短信验证码。
+- [虚拟地址生成器](https://www.fakenamegenerator.com/) - 虚拟地址生成器
+- [虚拟地址生成器](https://www.fakeaddressgenerator.com/) - 虚拟地址生成器
+- [虚拟信用卡信息](https://names.igopaygo.com/people/fake-person) - 虚拟信用卡生成器
 
 ### 编程相关
 - [Twilio](https://www.twilio.com/docs/) - wilio是一家云通信平台,允许软件开发人员使用其Web服务API以编程方式拨打和接听电话，发送和接收文本消息以及执行其他通信功能。
