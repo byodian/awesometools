@@ -36,8 +36,6 @@
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
-  - [压缩](#压缩)
-  - [备份](#备份)
   - [云盘资源搜索下载](#云盘资源搜索下载)
   - [截图](#截图)
   - [录制](#录制)
@@ -53,14 +51,10 @@
 - [好用网站](#好用网站)
   - [GitHub相关](#GitHub相关)
   - [markdown编辑器](#markdown编辑器)
-  - [在线工具](#在线工具)
+  - [工具](#工具)
   - [短视频&背景音乐](#短视频背景音乐)
-  - [图片资源网站](#图片资源网站)
-  - [办公相关](#办公相关)
-  - [电影网站](#电影网站)
-  - [航拍爱好者网站](#航拍爱好者网站)
-  - [导航网站](#导航网站)
-  - [兴趣爱好平台](#兴趣爱好平台)
+  - [图片资源](#图片资源)
+  - [兴趣爱好](#兴趣爱好)
   - [产品和设计](#产品和设计)
   - [国外视频流媒体](#国外视频流媒体)
   - [Kindle 电子书资源](#kindle电子书资源)
@@ -99,10 +93,6 @@
 - [Total Commander](https://www.ghisler.com/index.htm) - 文件资源管理。
 - [Windows Tabs](http://windowtabs.com/) - 为应用添加标签。 ![Freeware][Freeware Icon]
 
-### 压缩
-
-### 备份
-
 ### 云盘资源搜索下载
 - [速盘](https://www.speedpan.com/) - 百度网盘资源快速下载器。 ![Windows][Windowsapps Icon]
 - [PanDownload](http://pandownload.com/) - 百度网盘资源快速下载器。 ![Windows][Windowsapps Icon]
@@ -123,6 +113,7 @@
 - [Office Tool Plus](https://otp.landian.la/zh-cn/)  - Office 软件管理、下载、安装器。
 - [Piti](https://www.piti.fun/) - 快速制作 ppt 的插件工具。
 - [万彩办公大师](http://www.wofficebox.com/) - 办公小工具百宝箱。![Windows][Windowsapps Icon]
+- [PPT免费模板网站](https://www.showeet.com/)
 
 ### 桌面美化
 - [Rainmeter](https://www.rainmeter.net/) - 卓面美化程序
@@ -144,24 +135,20 @@
 ## Mac 
 
 ### 个性化
-- [Alfred](https://www.alfredapp.com/) - 快速启动工具，支持快速打开软件、浏览文件、文件夹等 。
-
-## IOS 
+- [Alfred](https://www.alfredapp.com/) - 快速启动工具，支持快速打开软件、浏览文件、文件夹等 。 
 
 ## Android 
 
 ### 开源应用市场
 - [XDA labs](https://labs.xda-developers.com/) - 一个允许开发者自由分发和推广应用程序的平台。
 - [F-Droid](https://f-droid.org/en/) - 一个免费开源的安卓应用市场。
- 
 
  ### Youtube 第三方客户端
  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - 轻量级 Youtube 客户端，支持后台视频播放。
  - [YMusic](https://ymusic.io/) - 音乐（音频）播放器，支持后台播放 Youtube 音乐。
 
-
 ### 投屏工具
-- [蓝叠](http://www.bluestacks.cn/) - 
+- [蓝叠](http://www.bluestacks.cn/) 
 - [乐播](http://www.hpplay.com.cn/) - 打通 PC 端、手机端、电视端。
 - [杰华科技](http://www.sigma-rt.com/) - 手机 / 电脑 / 智能电视（投影仪） / 平板 / 车载电脑 互投互控。
 - [小萝贝](http://www.xiaoluobei.com/) - 一款电脑控制手机的工具。
@@ -203,10 +190,10 @@
 - [Markdown Here](https://markdown-here.com/) - 
 - [马克飞象](https://maxiang.io/) - 
 
-### 在线工具
+### 工具
 - [YouTube, Twitch, Twitter, & Instagram Statistics - SocialBlade.com](https://socialblade.com/) 国外社交平台数据分析网站
-- [NiceTool](http://www.nicetool.net/) - 
-- [公益工具箱](http://tools.ngo20map.com/index.php/tool) - 
+- [NiceTool](http://www.nicetool.net/) 
+- [公益工具箱](http://tools.ngo20map.com/index.php/tool) 
 - [IFTTT](https://ifttt.com/) - 管理工具。
 - [深蓝阅读](http://bluereader.org) -  RSS 订阅工具。
 - [Feedly](https://feedly.com/) -  RSS 订阅工具。
@@ -219,7 +206,7 @@
 - [Mazwai](http://mazwai.com/#/) -  短视频网站。
 - [Marmoset](https://www.marmosetmusic.com/) -  背景音乐，可用于制作视频，配音等。
 
-### 图片资源网站
+### 图片资源
 - [无版权图片网站集合](http://m.egouz.com/zt/wubanquan/) - 免费无版权图片素材网站专题
 - [pexels](https://www.pexels.com/) -  支持关键词、颜色搜索。
 - [Unsplash](https://unsplash.com/) -  摄影师社区推动平台、高清壁纸分享。
@@ -233,43 +220,16 @@
 - [everypixel](https://www.everypixel.com/) -  图片搜索引擎。
 - [StreetWill](http://streetwill.co/) -  人文地理、自然风景类图片。
 - [deviantart](https://www.deviantart.com/) - 一个为艺术家展示各自作品、并交流讨论而设计的社交网路服务网站。
-- [Imhur](https://imgur.com/) - 提供免费的相片存储服务(需科学上网)
+- [Imhur](https://imgur.com/) - 提供免费的相片存储服务
 
-### 办公相关
-
--[PPT免费模板网站](https://www.showeet.com/)
-
-### 电影网站
-
-- [琪琪看片](https://www.qiqi321.com/) - 电影、电视剧、动漫、综艺、微电影、网络电视，支持在线观看。
-- [在线之家](http://www.1993s.top/) - 电影、电视剧，动漫，综艺支持在线观看。
-- [CK免费电影网](http://www.ckck.vip/) - 电影、电视剧，动漫，综艺支持在线观看。
-- [Neets](https://neets.cc/) - 追剧管家。
-- [电影FM](http://dianying.fm/) - 电影推荐站，分类详细。
-
-### 航拍爱好者网站
-
+### 兴趣爱好
+- [美骑网](http://www.biketo.com/) 
+- [骑记](http://www.iriding.cc/community/) 
 - [天空之城](https://www.skypixel.com/) - 全球航拍爱好者和专业摄影师社交平台。
 - [大疆论坛](https://bbs.dji.com/) - 航拍教程、设备交流平台。
 
-### 导航网站
-- [虫部落](http://www.chongbuluo.com/) - 
-- [大数据](http://www.afenxi.com/hao) - 
-- [纳米学习导航](http://1nami.com/) - 
-- [知筑](http://www.archi123.com/#/) - 
-- [Linux网站导航](http://linux.ubuntu.org.cn/) - 
-
-### 兴趣爱好平台
-- [中舞网](http://www.wudao.com/) - 
-- [下厨房](http://www.xiachufang.com/) - 
-- [读书人](http://www.duxieren.com/) - 
-- [蜂鸟](http://www.fengniao.com/) - 
-- [蚂蜂窝](http://www.mafengwo.cn/) - 
-- [美骑网](http://www.biketo.com/) - 
-- [骑记](http://www.iriding.cc/community/) - 
-
 ### 产品和设计
-- [互联网早读课](http://zaodula.com/) - 
+- [互联网早读课](http://zaodula.com/) 
 - [MockPhone](https://mockuphone.com/) - 原型制作工具。
 - [墨刀](https://modao.cc/) - 原型制作工具。
 - [magicmockups](http://magicmockups.com/) - 原型制作工具。
@@ -281,13 +241,13 @@
 - [Product Hunt](https://www.producthunt.com/) - 一个供用户分享和发现产品的网站
 
 ### 国外视频流媒体
-- [Dailymotion](https://www.dailymotion.com/jp) - 
-- [OK.Ru](https://ok.ru/) - 
-- [Lynda](https://www.lynda.com/) - 
-- [Vimeo](https://vimeo.com/286216759) - 
-- [VK](https://vk.com/) - 
-- [Netflix](https://www.netflix.com/) - 
-- [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) - 
+- [Dailymotion](https://www.dailymotion.com/jp) 
+- [OK.Ru](https://ok.ru/) 
+- [Lynda](https://www.lynda.com/) 
+- [Vimeo](https://vimeo.com/286216759) 
+- [VK](https://vk.com/) 
+- [Netflix](https://www.netflix.com/) 
+- [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) 
 
 ### kindle电子书资源
 - [苦瓜书盘](https://kgbook.com/) -  无限制免费下载。
