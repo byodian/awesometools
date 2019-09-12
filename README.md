@@ -46,13 +46,16 @@ Awesome Tools 效率工具推荐
 - [RocketDock][rocketdock] - Windows 桌面任务栏
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
-
 ### 其他
 - [Yomail][yomail] - 邮箱管理工具
 - [Synery][synery] - 鼠标键盘共享软件
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][Typora] - markdown编辑器
 - [Office Tool Plus][otoolplus]  - Office 软件管理、下载、安装器
+- [PxCook 自动标注 Photoshop、Sketch 设计原稿工具][pxcook]
+- [win 视频播放器][potplayer]
+- [kindle 标注笔记导出工具][knotes]
+- [Calibre 电子图书管理，格式转换][calibre]
 
 ## Android 
 
@@ -76,6 +79,8 @@ Awesome Tools 效率工具推荐
 - [Octotree][Octotree] - github 项目目录
 - [GitHub Repository Size][gitsize] - 显示 github 仓库大小
 - [Markdown Here][Markdownh] - markdown 扩展
+- [Fireshot 滚动截图][fireshot]
+- [Youtube 订阅号分类管理扩展程序][yousb]
 
 ## 好用网站
 
@@ -83,6 +88,7 @@ Awesome Tools 效率工具推荐
 
 - [GitHub Topic][GitHub Topic] - github 中优秀的项目
 - [GitHub Trend][GitHub Trend] - github 每天受欢迎的项目排行
+- [Chrome 插件推荐][chromeapp]
 
 ### 短视频和背景音乐
 - [coverr][coverr] - 短视频网站
@@ -104,19 +110,19 @@ Awesome Tools 效率工具推荐
 ### 虚拟信息服务
 - [TemMail][TemMail]- 虚拟邮箱
 - [SMSReceiveFree][SMSReceiveFree] -临时电话号码，免费接受短信验证码
+- [虚拟信息生成器 ][fakename]
+- [虚拟地址生成器 ][fakeaddress]
 
-### 编程相关
-- [Twilio][Twilio] - wilio是一家云通信平台,允许软件开发人员使用其Web服务API以编程方式拨打和接听电话，发送和接收文本消息
+### 在线应用
 
-
-## 发现
-- [Softonic][Softonic]
-- [NTWind Software][NTWind Software]
-- [SourceForge][SourceForge]
-- [itellyou][itellyou]
-- [stardock][stardock]
-- [胡萝卜周博客][胡萝卜周博客]
-- [艾维商城][艾维商城]
+- [IloveIMG][iloveimg] 
+- [卡通图像生成器][卡通]
+- [去除人像背景][remove]
+- [设计相关的新闻和工具][prototypr]
+- [免费网络课程的搜索引擎][classcentral]
+- [制作国际化应用词库][i18ns]
+- [读取历史照片中颜色应用][colorleap]
+- [双拼输入法在线练习应用][sp]
 
 **[⬆ 回到顶部](#windows)**
 
@@ -182,3 +188,20 @@ Awesome Tools 效率工具推荐
 [鸠摩搜索]:https://www.jiumodiary.com/
 [蚂蚁搬书]:http://book.mybanshu.win/
 [coverr]: https://coverr.co/
+[iloveimg]: https://www.iloveimg.com/zh-cn
+[yousb]:https://yousub.info/
+[fireshot]: https://getfireshot.com/
+[chromeapp]:https://github.com/zhaoolee/ChromeAppHeroes
+[fakeaddress]:https://www.fakeaddressgenerator.com/
+[fakename]:https://www.fakenamegenerator.com/
+[sp]:https://sp.linci.co/
+[calibre]:https://calibre-ebook.com/
+[Knotes]:https://knotesapp.cn/
+[potplayer]: http://potplayer.daum.net/?lang=zh_CN
+[pxcook]:https://www.fancynode.com.cn/pxcook
+[colorleap]:https://colorleap.app/home
+[i18ns]:https://i18ns.com/zh/index.html
+[classcentral]:https://www.classcentral.com/
+[prototypr]:https://www.prototypr.io/home/
+[remove]:https://www.remove.bg/
+[卡通]:https://getavataaars.com/
