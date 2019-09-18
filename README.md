@@ -46,6 +46,9 @@ Awesome Tools 效率工具推荐
 - [RocketDock][rocketdock] - Windows 桌面任务栏
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
+### 流媒体
+- [sodaplayer](https://www.sodaplayer.com/) BT 种子播放器 
+
 ### 其他
 - [Yomail][yomail] - 邮箱管理工具
 - [Synery][synery] - 鼠标键盘共享软件
@@ -60,8 +63,8 @@ Awesome Tools 效率工具推荐
 ## Android 
 
 ### 开源应用市场
-- [XDA labs][xda] - 一个允许开发者自由分发和推广应用程序的平台
-- [F-Droid][f-droid] - 一个免费开源的安卓应用市场
+- [XDA labs][xda] - 自由分发和推广应用程序的平台
+- [F-Droid][f-droid] - 免费开源的安卓应用市场
 
  ### Youtube 第三方客户端
  - [NewPipe][newpipe] - 轻量级 Youtube 客户端，支持后台视频播放
@@ -81,14 +84,17 @@ Awesome Tools 效率工具推荐
 - [Markdown Here][Markdownh] - markdown 扩展
 - [Fireshot 滚动截图][fireshot]
 - [Youtube 订阅号分类管理扩展程序][yousb]
+- [Youtube 视频下载](https://addoncrop.com/)
+- [clippings.io](https://www.clippings.io/) 管理 Kindle 设备上的摘抄和笔记
 
-## 好用网站
+## Web
 
 ### GitHub 相关
 
 - [GitHub Topic][GitHub Topic] - github 中优秀的项目
 - [GitHub Trend][GitHub Trend] - github 每天受欢迎的项目排行
 - [Chrome 插件推荐][chromeapp]
+- [Quality metadata badges for open source projects](https://shields.io/) 
 
 ### 短视频和背景音乐
 - [coverr][coverr] - 短视频网站
@@ -100,6 +106,24 @@ Awesome Tools 效率工具推荐
 - [Unsplash][Unsplash] -  摄影师社区推动平台、高清壁纸分享
 - [New Old Stock][New Old Stock] -  历史照片、黑白照片
 - [StreetWill][StreetWill] -  人文地理、自然风景类图片
+
+### 图标
+- [IconMoon](https://icomoon.io/#home)
+- [Font Awesome](https://fontawesome.com/)
+
+### 颜色
+- [读取历史照片中颜色应用][colorleap]
+
+### 学习类
+- [设计相关的新闻和工具][prototypr]
+- [免费网络课程的搜索引擎][classcentral]
+- [制作国际化应用词库][i18ns]
+- 
+## 格式转换
+- [pdf.to](https://pdf.to/) 转换为 PDF 和从 PDF 转换
+- [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 工具
+- [JSON to YAML 格式转换工具](https://www.json2yaml.com/)
+- [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/)
 
 ### kindle电子书
 - [蚂蚁搬书][蚂蚁搬书] -  IT 书籍为主
@@ -113,16 +137,26 @@ Awesome Tools 效率工具推荐
 - [虚拟信息生成器 ][fakename]
 - [虚拟地址生成器 ][fakeaddress]
 
-### 在线应用
+### Online tools
 
 - [IloveIMG][iloveimg] 
 - [卡通图像生成器][卡通]
 - [去除人像背景][remove]
-- [设计相关的新闻和工具][prototypr]
-- [免费网络课程的搜索引擎][classcentral]
-- [制作国际化应用词库][i18ns]
-- [读取历史照片中颜色应用][colorleap]
 - [双拼输入法在线练习应用][sp]
+
+### 流媒体
+
+- [Sub HD 字幕站](https://subhd.tv/) 字幕下载站
+- [the pirate bap](https://www.thepiratebay.org/) BT 资源网
+
+### 其他
+- [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
+- [Web design Museum](https://www.webdesignmuseum.org/) 各大网站网页设计发展历程
+
+## 跨平台
+
+- [Anydesk](https://anydesk.com/zhs) 远程协作
+BT
 
 **[⬆ 回到顶部](#windows)**
 
