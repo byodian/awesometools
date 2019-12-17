@@ -79,6 +79,7 @@ Awesome Tools 效率工具推荐
 ## chrome 扩展
 - [Vimium][Vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
 - [Video Speed Controller][Video Speed] - 网页视频播放加速器，最高 16 倍速
+- [GitZip for github][gitzip] - 下载 github 单个文件扩展
 - [Octotree][Octotree] - github 项目目录
 - [GitHub Repository Size][gitsize] - 显示 github 仓库大小
 - [Markdown Here][Markdownh] - markdown 扩展
@@ -240,3 +241,4 @@ BT
 [prototypr]:https://www.prototypr.io/home/
 [remove]:https://www.remove.bg/
 [卡通]:https://getavataaars.com/
+[gitzip]:https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=zh-CN
