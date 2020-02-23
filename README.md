@@ -16,7 +16,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
-  - [资源下载](#资源下载)
+  - [资源下载](#资源下载器)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
   - [未分类](#未分类)
@@ -36,6 +36,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [字幕&BT](#字幕&BT)
   - [学习类](#学习类)
   - [电子书](#电子书)
+  - [网盘资源](#网盘资源)
   - [虚拟信息](#虚拟信息)
   - [其他](#其他)
 
@@ -59,7 +60,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
 
-### 资源下载
+### 资源下载器
 
 - [速盘][速盘] - 百度网盘资源下载器
 - [PanDownload][pandownload] - 百度网盘资源快速下载器
@@ -207,6 +208,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [subscene](https://subscene.com/) - 字幕站。
 - [the pirate bay](https://www.thepiratebay.org/) 种子资源网
 
+### 网盘资源
+
+- [大力盘搜索](https://www.dalipan.com/) - 网盘资源文件搜索应用
+- [PanSou][pansou] - 百度网盘搜索引擎
+
 ### 学习类
 
 - [prototypr][prototypr] - 设计相关的新闻和工具
@@ -232,7 +238,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
 - [Web design Museum](https://www.webdesignmuseum.org/) 各大网站网页设计发展历程
 - [Version Museum](https://www.versionmuseum.com/) - 展示众多流行网站、操作系统、应用程序和游戏的视觉设计历史演变，英文网站。
-- [PanSou][pansou] - 百度网盘搜索引擎
 - [showeet](https://www.showeet.com/) - 具有创造力的免费 PPT 模板，英文网站。
 - [Get emoji](https://getemoji.com/) - 表情资源，可复制粘贴使用。
 - [public-apis](https://public-apis.xyz/) - 公共免费的 API 集合。
