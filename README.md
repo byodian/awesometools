@@ -16,7 +16,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
-  - [资源下载](#资源下载)
+  - [资源下载](#资源下载器)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
   - [未分类](#未分类)
@@ -36,6 +36,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [字幕&BT](#字幕&BT)
   - [学习类](#学习类)
   - [电子书](#电子书)
+  - [网盘资源](#网盘资源)
   - [虚拟信息](#虚拟信息)
   - [其他](#其他)
 
@@ -59,7 +60,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
 
-### 资源下载
+### 资源下载器
 
 - [速盘][速盘] - 百度网盘资源下载器
 - [PanDownload][pandownload] - 百度网盘资源快速下载器
@@ -214,6 +215,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Opensubtitles](https://www.opensubtitles.org/en/search/subs) - 字幕站。
 - [subscene](https://subscene.com/) - 字幕站。
 - [the pirate bay](https://www.thepiratebay.org/) 种子资源网
+
+### 网盘资源
+
+- [大力盘搜索](https://www.dalipan.com/) - 网盘资源文件搜索应用
+- [PanSou][pansou] - 百度网盘搜索引擎
 
 ### 学习类
 
