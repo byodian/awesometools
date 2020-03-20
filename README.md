@@ -143,6 +143,10 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Vimium][vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
 - [Video Speed Controller][video speed] - 网页视频加速调节工具，还可以快进广告。
 - [clippings.io](https://www.clippings.io/) 管理 Kindle 设备上的摘抄和笔记
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) - 冻结长时间不用的网页，释放系统资源。
+- [沙拉查词](https://saladict.crimx.com/) - 聚合多种词典，可划词翻译。
+- [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - Push to Kindle 是一项推送网页文章到 kiddle 的免费服务。该插件提供了一种快捷的方式，只需点击扩展按钮即可将文章发送到 Kindle 或者其他电子阅读器上。
+- [uAutoPagerize](https://chrome.google.com/webstore/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb) - 自动加载网页搜索结果的分页内容。
 
 #### 开发相关
 
@@ -153,9 +157,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Site Palette](http://palette.site/) - 拾取网页颜色。
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。
 - [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
+- [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
 
 ## 在线应用
 
+- [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
 - [pdf.to](https://pdf.to/) - PDF 格式转换
 - [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 格式转换
 - [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/)
@@ -181,6 +187,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [GitHub Trend][github trend] - github 每天受欢迎的项目排行
 - [chromeapp][chromeapp] - Chrome 插件推荐
 - [shields](https://shields.io/) - Quality metadata badges for open source projects
+- [HELLOGITHUB](https://hellogithub.com/) - 分享 GitHub 上有趣、入门级的开源项目
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
 
 ### 短视频
 
@@ -211,9 +219,18 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 - [prototypr][prototypr] - 设计相关的新闻和工具
 - [Class Cental](https://www.classcentral.com) - 免费的网络和公开课搜索引擎，赶紧安排学习起来。
+- [Coursera](https://www.coursera.org/) - Coursera 的在线课程由世界上顶尖大学和公司的讲师提供教学。
+- [Udemy](https://www.udemy.com/) - Udemy 课程种类丰富，什么课程都有，类似于淘宝的在线教育平台。
+- [Khan Academy](https://zh.khanacademy.org/) - 可汗学院提供练习习题, 教学视频和个性化的学习界面，让学习者能够在课堂内外按照自己的进度学习。
+- [code.org](https://code.org/) - Code.org® 是一个非营利组织。它致力于为学校、妇女和少数族裔提供学习计算机科学的机会。 
+- [wikiHow](https://zh.wikihow.com/) - wikiHow 以「如何做某事」的提问方式，提供了很多实用的百科指南。
+- [DevTube](https://dev.tube/) -  The best developer videos in one place.
 - [i18ns](https://i18ns.com/zh/index.html) - App&Web 国际化翻译搜索。
 - [数学乐](https://www.shuxuele.com/) - 有趣及易懂的方法来演示数学，本网站旨在覆盖整个幼儿园到高中的数学课程。
+- [Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) - 计算机结构和编译电子书资源，javascript 版。
+- [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [AutoHotkey 学习指南](https://www.autohotkey.com/boards/viewtopic.php?f=29&t=1099) - AutoHotkey 中文学习指南。
+- [标准网](https://www.biaozhun.org/) - 免费的标准下载分享的平台。
 
 ### 电子书
 
@@ -221,6 +238,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [鸠摩搜索][鸠摩搜索] - 电子书资源搜索引擎
 - [书伴][书伴] - 不支持下载、阅读，只提供 Kindle 图书资源推荐
 - [亚马逊免费电子书][亚马逊免费电子书] - 亚马逊官方网站免费电子书资源
+- [PDF Drive](https://www.pdfdrive.com/) - PDF Drive 是一个免费的搜索引擎，允许你搜索，预览和下载无限制的 PDF 文件到你设备上。
+- [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
 
 ### 虚拟信息
 
@@ -233,9 +252,15 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Web design Museum](https://www.webdesignmuseum.org/) 各大网站网页设计发展历程
 - [Version Museum](https://www.versionmuseum.com/) - 展示众多流行网站、操作系统、应用程序和游戏的视觉设计历史演变，英文网站。
 - [PanSou][pansou] - 百度网盘搜索引擎
+- [大力盘](https://www.dalipan.com/) - 网盘搜索
 - [showeet](https://www.showeet.com/) - 具有创造力的免费 PPT 模板，英文网站。
 - [Get emoji](https://getemoji.com/) - 表情资源，可复制粘贴使用。
 - [public-apis](https://public-apis.xyz/) - 公共免费的 API 集合。
+- [prism-break](https://prism-break.org/zh-CN/) - 隐私/安全 全套软件。
+- [techurls](http://techurls.com/) - 科技频道
+- [devurls](http://devurls.com/ ) - 程序员频道
+- [sciurls](http://sciurls.com/) - 科学频道
+- [finurls](https://finurls.com/) - 财经频道
 
 [oss icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg 'Open Source Software'
 [freeware icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg 'Freeware'
