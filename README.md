@@ -6,17 +6,16 @@
 
 Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目灵感来源于 [Awesome macOS](https://github.com/iCHAIT/awesome-macOS 'Awesome macOS')、[Awesome](https://github.com/Awesome-Windows/Awesome.git)、[Windows 绝赞应用](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn)。
 
-![Open-Source Software][oss icon] 意旨**开源**, 点击可打开**开源**仓库;\
-![Freeware][freeware icon] 意旨可**免费**使用, 或者**免费**个人授权;\
-![App Store][app-store icon] 意旨可在**App store** 下载;\
-![Awesome List][awesome-list icon] 意旨超链接到指定项目的 **Awesome list**;
+![Open-Source Software][oss icon] **开源**, 点击可打开**开源**仓库;\
+![Freeware][freeware icon] **免费**使用, 或者**免费**个人授权;\
+![App Store][app-store icon] **App store** 下载;\
+![Awesome List][awesome-list icon] 超链接到指定项目的 **Awesome list**;
 
 ## 目录
 
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
-  - [资源下载](#资源下载器)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
   - [未分类](#未分类)
@@ -59,11 +58,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [SpaceSniffer][spacesniffer] - 可视化电脑硬盘空间管理
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
-
-### 资源下载器
-
-- [速盘][速盘] - 百度网盘资源下载器
-- [PanDownload][pandownload] - 百度网盘资源快速下载器
 
 ### 截图和录制
 
@@ -257,8 +251,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
 - [Web design Museum](https://www.webdesignmuseum.org/) 各大网站网页设计发展历程
 - [Version Museum](https://www.versionmuseum.com/) - 展示众多流行网站、操作系统、应用程序和游戏的视觉设计历史演变，英文网站。
-- [PanSou][pansou] - 百度网盘搜索引擎
-- [大力盘](https://www.dalipan.com/) - 网盘搜索
 - [showeet](https://www.showeet.com/) - 具有创造力的免费 PPT 模板，英文网站。
 - [Get emoji](https://getemoji.com/) - 表情资源，可复制粘贴使用。
 - [public-apis](https://public-apis.xyz/) - 公共免费的 API 集合。
@@ -281,8 +273,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 [uninstall tool]: https://www.crystalidea.com/uninstall-tool
 [ccleaner]: https://www.ccleaner.com/
 [spacesniffer]: http://www.uderzo.it/main_products/space_sniffer/index.html
-[速盘]: https://www.speedpan.com/
-[pandownload]: http://pandownload.com/
 [pansou]: http://www.pansou.com/
 [snipaste]: https://www.snipaste.com/
 [pickpick]: https://picpick.app/zh/
@@ -328,7 +318,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 [temmail]: https://temp-mail.org/
 [亚马逊免费电子书]: http://t.cn/RkPrzFb
 [书伴]: https://bookfere.com/ebook
-[鸠摩搜索]: https://www.jiumodiary.com/
 [鸠摩搜索]: https://www.jiumodiary.com/
 [蚂蚁搬书]: http://book.mybanshu.win/
 [coverr]: https://coverr.co/
