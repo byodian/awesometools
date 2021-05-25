@@ -26,6 +26,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [Mac&Windows](#Mac&Windows)
 - [Chrome](#Chrome)
   - [扩展](#扩展)
+  - [油猴插件](#油猴)
 - [在线应用](#在线应用)
 - [资源](#资源)
   - [GitHub](#GitHub)
@@ -153,6 +154,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。
 - [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
+
+### 油猴插件
+- [Google Hit Hider by Domain (Search Filter / Block Sites)](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
 ## 在线应用
 
