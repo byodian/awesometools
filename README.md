@@ -26,7 +26,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [Mac&Windows](#Mac&Windows)
 - [Chrome](#Chrome)
   - [扩展](#扩展)
-  - [油猴插件](#油猴)
+  - [油猴插件](#油猴插件)
 - [在线应用](#在线应用)
 - [资源](#资源)
   - [GitHub](#GitHub)
