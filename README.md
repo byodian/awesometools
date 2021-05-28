@@ -51,6 +51,10 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [QuickLook][quicklook] - 快速预览文件
 - [Quicker](https://getquicker.net/) - 为常用操作建立捷径，让效率触手可及
 - [AutoHotKey](https://www.autohotkey.com/) - The ultimate automation scripting language for Windows.
+- [dexpot](https://dexpot.de/) - 虚拟桌面，方便切换屏幕窗口
+- [Ditto](https://ditto-cp.sourceforge.io/) - 剪贴板管理工具
+- [PowerToys](https://github.com/microsoft/PowerToys) - 快速启动工具，windows 系统组件
+- [Sizer](http://www.brianapps.net/sizer/) - 快速调整窗口大小
 
 ### 系统管理
 
