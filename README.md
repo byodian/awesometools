@@ -33,6 +33,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [短视频](#短视频)
   - [图片](#图片)
   - [图标](#图标)
+  - [字体](#字体)
   - [字幕&BT](#字幕&BT)
   - [学习类](#学习类)
   - [电子书](#电子书)
@@ -182,6 +183,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [TDEE Calculator](https://tdeecalculator.net/) - 计算每天燃烧的卡路里。它首先提供基础的代谢消耗，然后这个值乘以活动因子，得出你在不同锻炼频率下的卡路里消耗值。
 - [Crx][crx] - 下载 Chrome 扩展离线安装包
 - [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
+- [regexr](https://regexr.com/) 正则表达式校验
 
 ## 资源
 
@@ -193,6 +195,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [shields](https://shields.io/) - Quality metadata badges for open source projects
 - [HELLOGITHUB](https://hellogithub.com/) - 分享 GitHub 上有趣、入门级的开源项目
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
+- [rapidapi](https://rapidapi.com/zh/marketplace) - api 集合
 
 ### 短视频
 
@@ -212,6 +215,20 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [IconMoon](https://icomoon.io/#home)
 - [Font Awesome](https://fontawesome.com/)
 
+### 字体
+- [fontsfree](https://fontsfree.net/)
+- [xfonts](https://xfonts.pro/)
+
+### 设计
+- [figmachina](https://figmachina.com/)
+
+### 开发
+- [swagger](https://swagger.io/)
+
+### 语言学习
+
+- [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
+
 ### 字幕资源
 
 - [Sub HD 字幕站](https://subhd.tv/) 字幕下载站
@@ -226,6 +243,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 学习类
 
+- [freecodecamp](https://www.freecodecamp.org/) 
 - [prototypr][prototypr] - 设计相关的新闻和工具
 - [Class Cental](https://www.classcentral.com) - 免费的网络和公开课搜索引擎，赶紧安排学习起来。
 - [Coursera](https://www.coursera.org/) - Coursera 的在线课程由世界上顶尖大学和公司的讲师提供教学。
