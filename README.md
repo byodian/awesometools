@@ -13,31 +13,36 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ## 目录
 
+- [目录](#目录)
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
   - [未分类](#未分类)
-- [Mac](#Mac)
-- [Android](#Android)
+- [Mac](#mac)
+- [Android](#android)
 - [多平台应用](#多平台应用)
-  - [iOS&Android](#iOS&Android)
-  - [Mac&Windows](#Mac&Windows)
-- [Chrome](#Chrome)
+  - [iOS&Android](#iosandroid)
+  - [Mac&Windows](#macwindows)
+- [Chrome](#chrome)
   - [扩展](#扩展)
+    - [开发相关](#开发相关)
   - [油猴插件](#油猴插件)
 - [在线应用](#在线应用)
 - [资源](#资源)
-  - [GitHub](#GitHub)
+  - [GitHub](#github)
   - [短视频](#短视频)
   - [图片](#图片)
   - [图标](#图标)
   - [字体](#字体)
-  - [字幕&BT](#字幕&BT)
+  - [设计](#设计)
+  - [开发](#开发)
+  - [语言学习](#语言学习)
+  - [字幕资源](#字幕资源)
+  - [网盘资源](#网盘资源)
   - [学习类](#学习类)
   - [电子书](#电子书)
-  - [网盘资源](#网盘资源)
   - [虚拟信息](#虚拟信息)
   - [其他](#其他)
 
@@ -128,12 +133,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
 - [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
 - [Youtube 视频下载](https://addoncrop.com/)
-- [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
+- <del>[Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。</del>
 - [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
 - [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
-- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。
-- [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn?utm_source=chrome-ntp-icon) - 扩展右键菜单，超过 300 种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。
+- <del>[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。</del>
+- <del>[右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn?utm_source=chrome-ntp-icon) - 扩展右键菜单，超过 300 种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。</del>
 - [Imagus](https://tiny.cc/Imagus) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 - [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
 - [Momentum](https://momentumdash.com/) - 简洁标签页。
@@ -156,7 +161,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [GitHub Repository Size][gitsize] - 显示 github 仓库大小
 - [Web Developer](https://chrispederick.com/work/web-developer/) - Web 开发。
 - [Site Palette](http://palette.site/) - 拾取网页颜色。
-- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。
+- <del>[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。</del>
 - [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
 
@@ -261,7 +266,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 电子书
 
-- [蚂蚁搬书][蚂蚁搬书] - IT 书籍为主
+- <del>[蚂蚁搬书][蚂蚁搬书] - IT 书籍为主</del>
 - [鸠摩搜索][鸠摩搜索] - 电子书资源搜索引擎
 - [书伴][书伴] - 不支持下载、阅读，只提供 Kindle 图书资源推荐
 - [亚马逊免费电子书][亚马逊免费电子书] - 亚马逊官方网站免费电子书资源
@@ -270,8 +275,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 虚拟信息
 
-- [TemMail][temmail]- 虚拟邮箱
-- [SMSReceiveFree][smsreceivefree] -临时电话号码，免费接受短信验证码
+- <del>[TemMail][temmail]- 虚拟邮箱</del>
+- <del>[SMSReceiveFree][smsreceivefree] -临时电话号码，免费接受短信验证码</del>
 
 ### 其他
 
