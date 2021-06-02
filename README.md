@@ -6,6 +6,8 @@
 
 Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目灵感来源于 [Awesome macOS](https://github.com/iCHAIT/awesome-macOS 'Awesome macOS')、[Awesome](https://github.com/Awesome-Windows/Awesome.git)、[Windows 绝赞应用](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn)。
 
+欢迎加入 Telegram 频道：[https://t.me/awesometools](https://t.me/awesometools)
+
 ![Open-Source Software][oss icon] **开源**, 点击可打开**开源**仓库;\
 ![Freeware][freeware icon] **免费**使用, 或者**免费**个人授权;\
 ![App Store][app-store icon] **App store** 下载;\
@@ -13,22 +15,17 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ## 目录
 
-- [目录](#目录)
 - [Windows](#windows)
   - [效率工具](#效率工具)
   - [系统管理](#系统管理)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
-  - [未分类](#未分类)
 - [Mac](#mac)
 - [Android](#android)
 - [多平台应用](#多平台应用)
-  - [iOS&Android](#iosandroid)
-  - [Mac&Windows](#macwindows)
-- [Chrome](#chrome)
-  - [扩展](#扩展)
-    - [开发相关](#开发相关)
-  - [油猴插件](#油猴插件)
+- [Chrome扩展](#Chrome扩展)
+  - [开发相关](#开发相关)
+- [油猴插件](#油猴插件)
 - [在线应用](#在线应用)
 - [资源](#资源)
   - [GitHub](#github)
@@ -61,6 +58,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Ditto](https://ditto-cp.sourceforge.io/) - 剪贴板管理工具
 - [PowerToys](https://github.com/microsoft/PowerToys) - 快速启动工具，windows 系统组件
 - [Sizer](http://www.brianapps.net/sizer/) - 快速调整窗口大小
+- [potplayer][potplayer] - 视频播放器
 
 ### 系统管理
 
@@ -69,6 +67,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [SpaceSniffer][spacesniffer] - 可视化电脑硬盘空间管理
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
+- [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
 
 ### 截图和录制
 
@@ -83,16 +82,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Wallpaper][wallpaper] - steam 平台美化桌面工具
 - [RocketDock][rocketdock] - Windows 桌面任务栏
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
-
-### 未分类
-
-- [f.lux][f.lux] - 护眼模式工具
-- [Typora][typora] - markdown 编辑器
-- [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
-- [potplayer][potplayer] - 视频播放器
-- [Knotes][knotes] - kindle 标注笔记导出工具
-- [Calibre][calibre] - 电子图书管理，格式转换
-- [sodaplayer](https://www.sodaplayer.com/) 种子播放器
 
 ## Mac
 
@@ -113,28 +102,26 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ## 多平台应用
 
-### iOS&Android
-
 - [stoop](https://stoopinbox.com/) - A newsletter app
-
-### Mac&Windows
-
 - [Anydesk](https://anydesk.com/zhs) 远程协作
 - [textexpander](https://textexpander.com/) - 文本替换工具，提高打字效率。
 - [aText](https://trankynam.com/atext/) - 使用缩略语快速替换你自定义频繁使用的短语
 - [PxCook](https://www.fancynode.com.cn/pxcook) - 效易用的自动标注工具, 生成前端代码, 设计研发协作利器
 - [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
+- [Knotes][knotes] - kindle 标注笔记导出工具
+- [Calibre][calibre] - 电子图书管理，格式转换
+- [sodaplayer](https://www.sodaplayer.com/) 种子播放器
+- [f.lux][f.lux] - 护眼模式工具
+- [Typora][typora] - markdown 编辑器
 
-## Chrome
-
-### 扩展
+## Chrome扩展
 
 - [Fireshot][fireshot] - 捕捉网页截图，编辑并将它们保存为 PDF，JPEG，GIF，PNG 或 BMP。
 - [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
 - [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
 - [Youtube 视频下载](https://addoncrop.com/)
 - <del>[Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。</del>
-- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。
+- <del>[GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。</del> 已停止支持
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
 - [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
 - <del>[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。</del>
@@ -153,8 +140,15 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [沙拉查词](https://saladict.crimx.com/) - 聚合多种词典，可划词翻译。
 - [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - Push to Kindle 是一项推送网页文章到 kiddle 的免费服务。该插件提供了一种快捷的方式，只需点击扩展按钮即可将文章发送到 Kindle 或者其他电子阅读器上。
 - [uAutoPagerize](https://chrome.google.com/webstore/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb) - 自动加载网页搜索结果的分页内容。
+- [Check My Links][Check-My-Links] - 快速检查网页中所有的链接是否有效
+- [Chrono下载管理器][Chrono Download Manager] - Chrono接管你在Chrome中的所有下载，并添加了对浏览器菜单、工具栏和快捷键的支持 。
+- [OneTab][onetab] - 单击OneTab图标，将所有标签页转换成一个列表,节省内存，并减轻标签页混乱现象
+- [Language Learning with Netflix][Language Learning with Netflix] - 在Netflix网站上观看视频时，字幕以两种语言显示，允许您将原始音频和文本与您的语言翻译进行比较。
+- [All Netflix Categories][All Netflix Categories] - Netflix has tons of hidden categories — this extension unlocks more than 27000 Hidden Netflix Secret Categories.
+- [Trim: IMDB Ratings on Netflix][Trim: IMDB Ratings on Netflix] - Show IMDB and Rotten Tomatoes ratings on Netflix and Amazon Prime Video
+- [Twemex][twemex] - Get more insight from Twitter 使用侧边栏显示热门推文
 
-#### 开发相关
+### 开发相关
 
 - [GitZip for github][gitzip] - 下载 github 单个文件扩展
 - [Octotree][octotree] - github 项目目录
@@ -164,8 +158,10 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - <del>[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。</del>
 - [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
+- [json-viewer][jsonviewer] - 格式化、高亮显示 JSON 数据
+- [Fonts Ninja][fontsninja] - 可识别网页中的字体类型，加快设计速度，适合网页设计师和前端开发者
 
-### 油猴插件
+## 油猴插件
 - [Google Hit Hider by Domain (Search Filter / Block Sites)](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
 ## 在线应用
@@ -310,7 +306,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 [pickpick]: https://picpick.app/zh/
 [carnac]: http://code52.org/carnac/
 [screentogif]: https://www.screentogif.com/?l=zh_cn
-[otoolplus]: https://otp.landian.la/zh-cn/
+[otoolplus]: https://otp.landian.vip/zh-cn/
 [rocketdock]: https://rocketdock.en.softonic.com/
 [wallpaper]: https://store.steampowered.com/app/431960/Wallpaper_Engine/
 [rainmeter]: https://www.rainmeter.net/
@@ -369,3 +365,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 [remove]: https://www.remove.bg/
 [卡通]: https://getavataaars.com/
 [gitzip]: https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=zh-CN
+[fontsninja]: https://www.fonts.ninja/
+[jsonviewer]: https://github.com/tulios/json-viewer
+[Check-My-Links]: https://github.com/PageModifiedOfficial/Check-My-Links
+[Chrono Download Manager]: https://www.chronodownloader.net/
+[onetab]: https://www.one-tab.com/
+[Language Learning with Netflix]: https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm
+[All Netflix Categories]: https://chrome.google.com/webstore/detail/all-netflix-categories/fkjmbiakdlohkehbmcoalflelnbhpkpl
+[Trim: IMDB Ratings on Netflix]: https://chrome.google.com/webstore/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj
+[twemex]: https://twemex.app/ 
