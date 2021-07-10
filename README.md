@@ -29,18 +29,13 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [在线应用](#在线应用)
 - [资源](#资源)
   - [GitHub](#github)
-  - [短视频](#短视频)
-  - [图片](#图片)
-  - [图标](#图标)
-  - [字体](#字体)
-  - [设计](#设计)
-  - [开发](#开发)
-  - [语言学习](#语言学习)
+  - [设计资源](#设计资源)
   - [字幕资源](#字幕资源)
   - [网盘资源](#网盘资源)
-  - [学习类](#学习类)
+  - [学习资源](#学习资源)
   - [电子书](#电子书)
   - [虚拟信息](#虚拟信息)
+  - [科学上网](科学上网)
   - [其他](#其他)
 
 ## Windows
@@ -198,37 +193,20 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
 - [rapidapi](https://rapidapi.com/zh/marketplace) - api 集合
 
-### 短视频
+### 设计资源
 
-- [coverr][coverr] - 短视频网站
-- [Mazwai][mazwai] - 短视频网站
-
-### 图片
-
-- [pexels][pexels] - 支持关键词、颜色搜索
+- [coverr][coverr] - 短视频下载网站
+- [Mazwai][mazwai] - 短视频下载网站
+- [pexels][pexels] - 图片库，支持关键词、颜色搜索
 - [Unsplash][unsplash] - 摄影师社区推动平台、高清壁纸分享
 - [imgbin](https://imgbin.com/) - 透明 PNG 图片下载
 - [New Old Stock][new old stock] - 历史照片、黑白照片
 - [StreetWill][streetwill] - 人文地理、自然风景类图片
-
-### 图标
-
-- [IconMoon](https://icomoon.io/#home)
-- [Font Awesome](https://fontawesome.com/)
-
-### 字体
-- [fontsfree](https://fontsfree.net/)
-- [xfonts](https://xfonts.pro/)
-
-### 设计
-- [figmachina](https://figmachina.com/)
-
-### 开发
-- [swagger](https://swagger.io/)
-
-### 语言学习
-
-- [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
+- [IconMoon](https://icomoon.io/#home) 图标库，可自定义下载
+- [Font Awesome](https://fontawesome.com/) 图标库
+- [fontsfree](https://fontsfree.net/) - 字体下载
+- [xfonts](https://xfonts.pro/) - 字体下载
+- [figmachina](https://figmachina.com/) - figma 中文学习资源
 
 ### 字幕资源
 
@@ -242,7 +220,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [大力盘搜索](https://www.dalipan.com/) - 网盘资源文件搜索应用
 - [PanSou][pansou] - 百度网盘搜索引擎
 
-### 学习类
+### 学习资源
 
 - [freecodecamp](https://www.freecodecamp.org/) 
 - [prototypr][prototypr] - 设计相关的新闻和工具
@@ -259,6 +237,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [AutoHotkey 学习指南](https://www.autohotkey.com/boards/viewtopic.php?f=29&t=1099) - AutoHotkey 中文学习指南。
 - [标准网](https://www.biaozhun.org/) - 免费的标准下载分享的平台。
+- [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
 
 ### 电子书
 
@@ -273,6 +252,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 - <del>[TemMail][temmail]- 虚拟邮箱</del>
 - <del>[SMSReceiveFree][smsreceivefree] -临时电话号码，免费接受短信验证码</del>
+
+### 科学上网
+
+- [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - windows 系统科学上网工具
+- [clashX](https://github.com/yichengchen/clashX) - mac 系统科学上网工具
 
 ### 其他
 
