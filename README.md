@@ -185,6 +185,40 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ## VSCode插件
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
 
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+
+- [File Browser](https://marketplace.visualstudio.com/items?itemName=bodil.file-browser)
+
+- [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
+
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+
+- [px to rem & rpx (cssrem)](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem)
+
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
+- [VueDX](https://marketplace.visualstudio.com/items?itemName=znck.vue-language-features)
+
 ## 资源
 
 ### GitHub
