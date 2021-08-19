@@ -27,6 +27,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [开发相关](#开发相关)
 - [油猴插件](#油猴插件)
 - [在线应用](#在线应用)
+- [VSCode插件](#VSCode插件)
 - [资源](#资源)
   - [GitHub](#github)
   - [设计资源](#设计资源)
@@ -180,6 +181,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Crx][crx] - 下载 Chrome 扩展离线安装包
 - [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
 - [regexr](https://regexr.com/) 正则表达式校验
+
+## VSCode插件
+- [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
 
 ## 资源
 
