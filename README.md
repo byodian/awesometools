@@ -143,6 +143,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [All Netflix Categories][All Netflix Categories] - Netflix has tons of hidden categories — this extension unlocks more than 27000 Hidden Netflix Secret Categories.
 - [Trim: IMDB Ratings on Netflix][Trim: IMDB Ratings on Netflix] - Show IMDB and Rotten Tomatoes ratings on Netflix and Amazon Prime Video
 - [Twemex][twemex] - Get more insight from Twitter 使用侧边栏显示热门推文
+- [image-downloader](https://pactinteractive.github.io/image-downloader/) - 拉取网站图片资源开源扩展
 
 ### 开发相关
 
@@ -181,42 +182,26 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Crx][crx] - 下载 Chrome 扩展离线安装包
 - [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
 - [regexr](https://regexr.com/) 正则表达式校验
+- [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
 
 ## VSCode插件
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
-
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-
 - [File Browser](https://marketplace.visualstudio.com/items?itemName=bodil.file-browser)
-
 - [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
-
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-
 - [px to rem & rpx (cssrem)](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem)
-
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
-
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-
 - [VueDX](https://marketplace.visualstudio.com/items?itemName=znck.vue-language-features)
 
 ## 资源
