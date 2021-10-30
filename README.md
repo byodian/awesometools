@@ -20,7 +20,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
   - [系统管理](#系统管理)
   - [截图和录制](#截图和录制)
   - [桌面美化](#桌面美化)
-- [Mac](#mac)
+- [macOS](#macOS)
 - [Android](#android)
 - [多平台应用](#多平台应用)
 - [Chrome扩展](#Chrome扩展)
@@ -79,7 +79,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [RocketDock][rocketdock] - Windows 桌面任务栏
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
-## Mac
+## macOS
 
 - [JustFocus](https://www.getjustfocus.com/) - 简洁易用的休息提醒工具。
 - [CheatSheet](https://mediaatelier.com/GrandTotal6/?lang=en) - 一键查询系统，应用程序的快捷键
@@ -88,6 +88,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Alfred](https://www.alfredapp.com/) - 快速启动 Mac 文件和软件。
 - [Rocket](https://matthewpalmer.net/rocket/) - 使用简单容易的方式快速打出表情
 - [elpass](https://elpass.app/) - 密码管理，**app 内购买**
+- [Vimac](https://vimacapp.com/) - 使用 vim 操作的方式导航 macOS
+- [DEVONthink](devontechnologies.com/apps/devonthink) - Collect, organize, edit and annotate documents of any kind. 
+- [Roam Research](https://roamresearch.com/) - 笔记记录工具
 
 ## Android
 
@@ -215,6 +218,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [HELLOGITHUB](https://hellogithub.com/) - 分享 GitHub 上有趣、入门级的开源项目
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
 - [rapidapi](https://rapidapi.com/zh/marketplace) - api 集合
+- [github-star-search](https://github.com/JaosnHsieh/github-star-search) - Search your github starred repositories offline through README , description and other fields.
 
 ### 设计资源
 
@@ -281,6 +285,18 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - windows 系统科学上网工具
 - [clashX](https://github.com/yichengchen/clashX) - mac 系统科学上网工具
 
+### 开发资源
+
+- [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
+- [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
+- [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
+- [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
+- [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
+
+### 可视化搭建工具
+- [anima](https://www.animaapp.com/) - 将设计稿直接转换成 HTML、React 或者 Vue 代码
+- [Utopia](https://utopia.app/) - It combines VSCode with a design and preview tool, and full two-way synchronisation: design and code update each other, in real time. 
+
 ### 其他
 
 - [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
@@ -294,6 +310,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [devurls](http://devurls.com/ ) - 程序员频道
 - [sciurls](http://sciurls.com/) - 科学频道
 - [finurls](https://finurls.com/) - 财经频道
+- [personal wiki](https://wiki.nikitavoloboev.xyz/) - 个人 wiki 项目
 
 [oss icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg 'Open Source Software'
 [freeware icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg 'Freeware'
