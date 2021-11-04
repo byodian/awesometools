@@ -288,6 +288,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ### 开发资源
 
 - [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
+- [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
+- [china_regions](https://github.com/wecatch/china_regions) - 全最新中国省，市，地区json及sql数据
 - [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
 - [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
 - [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
