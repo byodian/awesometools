@@ -186,6 +186,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
 - [regexr](https://regexr.com/) 正则表达式校验
 - [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
+- [extendsclass](https://extendsclass.com/) - Online Tools for Developers
 
 ## VSCode插件
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
