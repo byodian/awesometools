@@ -28,6 +28,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [油猴插件](#油猴插件)
 - [在线应用](#在线应用)
 - [VSCode插件](#VSCode插件)
+- [开源书籍](#开源书籍)
+- [硬件](#硬件)
 - [资源](#资源)
   - [GitHub](#github)
   - [设计资源](#设计资源)
@@ -79,6 +81,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [RocketDock][rocketdock] - Windows 桌面任务栏
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
+### 包管理器
+- [ScoopInstaller/Scoop: A command-line installer for Windows.](https://github.com/ScoopInstaller/Scoop) - ScoopInstaller/Scoop: A command-line installer for Windows.
+- [microsoft/winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli) - microsoft/winget-cli: Windows Package Manager CLI (aka winget)
+- [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/) - Chocolatey Software | Chocolatey - The package manager for Windows
+
+
 ## macOS
 
 - [JustFocus](https://www.getjustfocus.com/) - 简洁易用的休息提醒工具。
@@ -91,6 +99,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Vimac](https://vimacapp.com/) - 使用 vim 操作的方式导航 macOS
 - [DEVONthink](devontechnologies.com/apps/devonthink) - Collect, organize, edit and annotate documents of any kind. 
 - [Roam Research](https://roamresearch.com/) - 笔记记录工具
+- [Script Kit: Shortcut to Everything](https://www.scriptkit.com/) - Script Kit: Shortcut to Everything
 
 ## Android
 
@@ -187,6 +196,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [regexr](https://regexr.com/) 正则表达式校验
 - [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
 - [extendsclass](https://extendsclass.com/) - Online Tools for Developers
+- [Give Me Colors / Lionel Radisson / Observable](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
+- [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
 
 ## VSCode插件
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
@@ -208,6 +219,57 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [VueDX](https://marketplace.visualstudio.com/items?itemName=znck.vue-language-features)
 
+## 开源书籍
+- [Atomic Design | Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/) - Atomic Design | Atomic Design by Brad Frost
+- [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) - Learning JavaScript Design Patterns
+- [Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) - 计算机结构和编译电子书资源，javascript 版。
+- [James Clear's 30 Days to Better Habits email course](https://jamesclear.com/30-days) - James Clear's 30 Days to Better Habits email course
+
+## 硬件
+- [RGBKB.net](https://www.rgbkb.net/) - RGBKB.net
+- [Vortexgear|Keyboard|Keyca](http://www.vortexgear.tw/) - Vortexgear|Keyboard|Keyca
+
+## 命令行
+
+### 辅助工具
+- [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
+- [command-not-found.com](https://command-not-found.com/) - command-not-found.com
+- [bashoneliners.com | Bash One-Liners](https://www.bashoneliners.com/) - bashoneliners.com | Bash One-Liners
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
+
+### 增强命令
+- [clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.](https://github.com/clvv/fasd) - clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat) - sharkdp/bat: A cat(1) clone with wings.
+- [ogham/exa: A modern replacement for ‘ls’.](https://github.com/ogham/exa) - ogham/exa: A modern replacement for ‘ls’.
+- [sharkdp/fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd) - sharkdp/fd: A simple, fast and user-friendly alternative to 'find'
+- [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) - junegunn/fzf: A command-line fuzzy finder
+- [tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr) - tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands
+- [htop - an interactive process viewer](https://htop.dev/) - htop - an interactive process viewer
+- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
+- [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) - asciinema - Record and share your terminal sessions, the right way
+- [marionebl/svg-term-cli: Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli) - marionebl/svg-term-cli: Share terminal sessions via SVG and CSS
+- [httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie) - httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [withfig/fig: Public issue tracker for Fig](https://github.com/withfig/fig) - withfig/fig: Public issue tracker for Fig
+- [jonas/tig: Text-mode interface for git](https://github.com/jonas/tig) - jonas/tig: Text-mode interface for git
+
+## 终端应用
+- [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
+- [Alacritty](https://alacritty.org/) - Alacritty
+- [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
+- [iTerm2 - macOS Terminal Replacement](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
+
+## shell
+- [Terminals Are Sexy - Terminals Are Sexy](https://terminalsare.sexy/) - Terminals Are Sexy - Terminals Are Sexy
+- [Zsh](https://www.zsh.org/) - Zsh
+- [fish shell](https://fishshell.com/) - fish shell
+- [tmux/tmux: tmux source code](https://github.com/tmux/tmux) - tmux/tmux: tmux source code
+- [PowerShell Documentation - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/) - PowerShell Documentation - PowerShell | Microsoft Docs
+
+### Zsh plugins
+- [zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework](https://github.com/zimfw/zimfw) - zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework
+
+### Fishshell plugins
+
 ## 资源
 
 ### GitHub
@@ -217,9 +279,10 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [chromeapp][chromeapp] - Chrome 插件推荐
 - [shields](https://shields.io/) - Quality metadata badges for open source projects
 - [HELLOGITHUB](https://hellogithub.com/) - 分享 GitHub 上有趣、入门级的开源项目
-- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
 - [rapidapi](https://rapidapi.com/zh/marketplace) - api 集合
 - [github-star-search](https://github.com/JaosnHsieh/github-star-search) - Search your github starred repositories offline through README , description and other fields.
+- [LibHunt - Trending open-source projects and their alternatives](https://www.libhunt.com/) - LibHunt - Trending open-source projects and their alternatives
+- [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph
 
 ### 设计资源
 
@@ -262,9 +325,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [i18ns](https://i18ns.com/zh/index.html) - App&Web 国际化翻译搜索。
 - [数学乐](https://www.shuxuele.com/) - 有趣及易懂的方法来演示数学，本网站旨在覆盖整个幼儿园到高中的数学课程。
 - [Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) - 计算机结构和编译电子书资源，javascript 版。
-- [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [AutoHotkey 学习指南](https://www.autohotkey.com/boards/viewtopic.php?f=29&t=1099) - AutoHotkey 中文学习指南。
 - [标准网](https://www.biaozhun.org/) - 免费的标准下载分享的平台。
+- [Developer Roadmaps](https://roadmap.sh/roadmaps) - Developer Roadmaps
 - [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
 
 ### 电子书
@@ -278,8 +341,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 虚拟信息
 
-- <del>[TemMail][temmail]- 虚拟邮箱</del>
-- <del>[SMSReceiveFree][smsreceivefree] -临时电话号码，免费接受短信验证码</del>
+- [TemMail][temmail] - 虚拟邮箱
+- [SMSReceiveFree][smsreceivefree] - 临时电话号码，免费接受短信验证码
+- [Temp Mail — Temporary Email Address](https://temp-mail.to/) - Temp Mail — Temporary Email Address
 
 ### 科学上网
 
@@ -314,6 +378,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [sciurls](http://sciurls.com/) - 科学频道
 - [finurls](https://finurls.com/) - 财经频道
 - [personal wiki](https://wiki.nikitavoloboev.xyz/) - 个人 wiki 项目
+- [Mirror: Create and connect your world on web3](https://mirror.xyz/) - Mirror: Create and connect your world on web3
+- [teddit](https://teddit.net/) - the alternative, privacy respecting, front page of internet.
 
 [oss icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg 'Open Source Software'
 [freeware icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg 'Freeware'
