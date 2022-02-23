@@ -82,9 +82,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
 ### 包管理器
-- [ScoopInstaller/Scoop: A command-line installer for Windows.](https://github.com/ScoopInstaller/Scoop) - ScoopInstaller/Scoop: A command-line installer for Windows.
-- [microsoft/winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli) - microsoft/winget-cli: Windows Package Manager CLI (aka winget)
-- [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/) - Chocolatey Software | Chocolatey - The package manager for Windows
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - ScoopInstaller/Scoop: A command-line installer for Windows.
+- [winget-cli](https://github.com/microsoft/winget-cli) - microsoft/winget-cli: Windows Package Manager CLI (aka winget)
+- [Chocolatey Software](https://chocolatey.org/) - Chocolatey Software | Chocolatey - The package manager for Windows
 
 
 ## macOS
@@ -196,7 +196,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [regexr](https://regexr.com/) 正则表达式校验
 - [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
 - [extendsclass](https://extendsclass.com/) - Online Tools for Developers
-- [Give Me Colors / Lionel Radisson / Observable](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
+- [Give Me Colors](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
 - [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
 
 ## VSCode插件
@@ -229,46 +229,58 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [RGBKB.net](https://www.rgbkb.net/) - RGBKB.net
 - [Vortexgear|Keyboard|Keyca](http://www.vortexgear.tw/) - Vortexgear|Keyboard|Keyca
 
-## 命令行
+## 命令行 && shell script
 
 ### 辅助工具
 - [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [command-not-found.com](https://command-not-found.com/) - command-not-found.com
-- [bashoneliners.com | Bash One-Liners](https://www.bashoneliners.com/) - bashoneliners.com | Bash One-Liners
+- [Bash One-Liners](https://www.bashoneliners.com/) - bashoneliners.com | Bash One-Liners
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
+- [cheat.sh](https://cheat.sh/) - cheat.sh/:firstpage
+- [styleguide](https://google.github.io/styleguide/shellguide.html) - styleguide | Style guides for Google-originated open-source projects
+- [shell-fu](https://www.shell-fu.org/) - shell-fu
+- [ShellCheck](https://www.shellcheck.net/) - ShellCheck – shell script analysis tool 
 
 ### 增强命令
-- [clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.](https://github.com/clvv/fasd) - clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat) - sharkdp/bat: A cat(1) clone with wings.
-- [ogham/exa: A modern replacement for ‘ls’.](https://github.com/ogham/exa) - ogham/exa: A modern replacement for ‘ls’.
-- [sharkdp/fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd) - sharkdp/fd: A simple, fast and user-friendly alternative to 'find'
-- [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) - junegunn/fzf: A command-line fuzzy finder
-- [tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr) - tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands
-- [htop - an interactive process viewer](https://htop.dev/) - htop - an interactive process viewer
+- [fasd](https://github.com/clvv/fasd) - clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [bat](https://github.com/sharkdp/bat) - sharkdp/bat: A cat(1) clone with wings.
+- [exa](https://github.com/ogham/exa) - ogham/exa: A modern replacement for ‘ls’.
+- [fd](https://github.com/sharkdp/fd) - sharkdp/fd: A simple, fast and user-friendly alternative to 'find'
+- [fzf](https://github.com/junegunn/fzf) - junegunn/fzf: A command-line fuzzy finder
+- [tldr](https://github.com/tldr-pages/tldr) - tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands
+- [htop](https://htop.dev/) - htop - an interactive process viewer
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
-- [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) - asciinema - Record and share your terminal sessions, the right way
-- [marionebl/svg-term-cli: Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli) - marionebl/svg-term-cli: Share terminal sessions via SVG and CSS
-- [httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie) - httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [withfig/fig: Public issue tracker for Fig](https://github.com/withfig/fig) - withfig/fig: Public issue tracker for Fig
-- [jonas/tig: Text-mode interface for git](https://github.com/jonas/tig) - jonas/tig: Text-mode interface for git
+- [asciinema](https://asciinema.org/) - asciinema - Record and share your terminal sessions, the right way
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - marionebl/svg-term-cli: Share terminal sessions via SVG and CSS
+- [httpie](https://github.com/httpie/httpie) - httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [fig](https://github.com/withfig/fig) - withfig/fig: Public issue tracker for Fig
+- [tig](https://github.com/jonas/tig) - jonas/tig: Text-mode interface for git
 
 ## 终端应用
 - [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
 - [Alacritty](https://alacritty.org/) - Alacritty
-- [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
-- [iTerm2 - macOS Terminal Replacement](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
+- [Warp](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
+- [iTerm2](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
 
 ## shell
-- [Terminals Are Sexy - Terminals Are Sexy](https://terminalsare.sexy/) - Terminals Are Sexy - Terminals Are Sexy
+- [Terminals Are Sexy](https://terminalsare.sexy/) - Terminals Are Sexy - Terminals Are Sexy
 - [Zsh](https://www.zsh.org/) - Zsh
 - [fish shell](https://fishshell.com/) - fish shell
-- [tmux/tmux: tmux source code](https://github.com/tmux/tmux) - tmux/tmux: tmux source code
-- [PowerShell Documentation - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/) - PowerShell Documentation - PowerShell | Microsoft Docs
+- [tmux](https://github.com/tmux/tmux) - tmux/tmux: tmux source code
+- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/) - PowerShell Documentation - PowerShell | Microsoft Docs
 
 ### Zsh plugins
-- [zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework](https://github.com/zimfw/zimfw) - zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw](https://github.com/zimfw/zimfw) - zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework
 
 ### Fishshell plugins
+- [plugin-git](https://github.com/jhillyerd/plugin-git) - jhillyerd/plugin-git: Git plugin for Oh My Fish (similar to oh-my-zsh git)
+- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - jorgebucaran/autopair.fish: Auto-complete matching pairs in the Fish command line.
+- [z](https://github.com/jethrokuan/z) - jethrokuan/z: Pure-fish z directory jumping
+- [tide](https://github.com/IlanCosman/tide) - IlanCosman/tide: 🌊 The ultimate Fish prompt.
+- [fzf.fish](https://github.com/PatrickF1/fzf.fish) - PatrickF1/fzf.fish: Augment your fish command line with fzf key bindings.
+- [nvm.fish](https://github.com/jorgebucaran/nvm.fish) - jorgebucaran/nvm.fish: Node.js version manager lovingly made for Fish.
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - jorgebucaran/awsm.fish: A curation of prompts, plugins & other resources for Fish. 🐚
+- [Fish shell playground](https://rootnroll.com/d/fish-shell/) - Fish shell playground | rootnroll
 
 ## 资源
 
