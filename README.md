@@ -57,6 +57,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [PowerToys](https://github.com/microsoft/PowerToys) - 快速启动工具，windows 系统组件
 - [Sizer](http://www.brianapps.net/sizer/) - 快速调整窗口大小
 - [potplayer][potplayer] - 视频播放器
+- [Flow Launcher](https://www.flowlauncher.com/) - Flow Launcher
+- [Zeal - Offline Documentation Browser](https://zealdocs.org/) - Offline Documentation Browser
 
 ### 系统管理
 
@@ -84,8 +86,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ### 包管理器
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - ScoopInstaller/Scoop: A command-line installer for Windows.
 - [winget-cli](https://github.com/microsoft/winget-cli) - microsoft/winget-cli: Windows Package Manager CLI (aka winget)
-- [Chocolatey Software](https://chocolatey.org/) - Chocolatey Software | Chocolatey - The package manager for Windows
-
+- [Chocolatey Software](https://chocolatey.org/) - Chocolatey - The package manager for Windows
 
 ## macOS
 
@@ -100,6 +101,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [DEVONthink](devontechnologies.com/apps/devonthink) - Collect, organize, edit and annotate documents of any kind. 
 - [Roam Research](https://roamresearch.com/) - 笔记记录工具
 - [Script Kit: Shortcut to Everything](https://www.scriptkit.com/) - Script Kit: Shortcut to Everything
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Karabiner-Elements
+- [Numi](https://numi.app/) - Numi. Beautiful calculator app for Mac.
 
 ## Android
 
@@ -107,6 +110,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [F-Droid][f-droid] - 免费开源的安卓应用市场
 - [NewPipe][newpipe] - 轻量级第三方 Youtube 客户端，支持后台视频播放
 - [YMusic][ymusic]- 第三方 Youtube 音乐播放器，支持后台播放
+- [Kiwi Browser](https://kiwibrowser.com/) - Kiwi Browser
 
 ## 多平台应用
 
@@ -118,6 +122,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
 - [Knotes][knotes] - kindle 标注笔记导出工具
 - [Calibre][calibre] - 电子图书管理，格式转换
+- [Koodo Reader](https://koodo.960960.xyz/en) - Koodo Reader
 - [sodaplayer](https://www.sodaplayer.com/) 种子播放器
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][typora] - markdown 编辑器
@@ -128,12 +133,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
 - [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
 - [Youtube 视频下载](https://addoncrop.com/)
-- <del>[Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。</del>
-- <del>[GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。</del> 已停止支持
+- [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
+- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
 - [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
-- <del>[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。</del>
-- <del>[右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn?utm_source=chrome-ntp-icon) - 扩展右键菜单，超过 300 种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。</del>
+- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。
 - [Imagus](https://tiny.cc/Imagus) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 - [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
 - [Momentum](https://momentumdash.com/) - 简洁标签页。
@@ -156,7 +160,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Trim: IMDB Ratings on Netflix][Trim: IMDB Ratings on Netflix] - Show IMDB and Rotten Tomatoes ratings on Netflix and Amazon Prime Video
 - [Twemex][twemex] - Get more insight from Twitter 使用侧边栏显示热门推文
 - [image-downloader](https://pactinteractive.github.io/image-downloader/) - 拉取网站图片资源开源扩展
-
+- [Relingo](https://relingo.net/en/index) - Read interesting English articles, watch interesting videos and master vocabulary step by step
+ 
 ### 开发相关
 
 - [GitZip for github][gitzip] - 下载 github 单个文件扩展
@@ -164,14 +169,13 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [GitHub Repository Size][gitsize] - 显示 github 仓库大小
 - [Web Developer](https://chrispederick.com/work/web-developer/) - Web 开发。
 - [Site Palette](http://palette.site/) - 拾取网页颜色。
-- <del>[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 定位页面任何元素的宽高和位置。</del>
 - [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
 - [json-viewer][jsonviewer] - 格式化、高亮显示 JSON 数据
 - [Fonts Ninja][fontsninja] - 可识别网页中的字体类型，加快设计速度，适合网页设计师和前端开发者
 
 ## 油猴插件
-- [Google Hit Hider by Domain (Search Filter / Block Sites)](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
+- [Google Hit Hider](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
 ## 在线应用
 
@@ -184,8 +188,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [removebg](https://www.remove.bg/zh) - 去除人像图片背景，自动抠图。
 - [getavataaars][卡通] - 卡通图像生成器
 - [双拼输入法][sp] - 在线练习应用
-- [excalidraw](https://excalidraw.com/) - 画草图的简易白板工具
-- [Color Leap](https://colorleap.app/home) - 读取历史照片颜色
 - [bulletjournal](https://bulletjournal.app/) - 子弹笔记
 - [Zero Width Shortener](https://zws.im/) - 短网址生成器
 - [突字幕](https://2zimu.com/) - 上传视频，得字幕。
@@ -193,13 +195,19 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [TDEE Calculator](https://tdeecalculator.net/) - 计算每天燃烧的卡路里。它首先提供基础的代谢消耗，然后这个值乘以活动因子，得出你在不同锻炼频率下的卡路里消耗值。
 - [Crx][crx] - 下载 Chrome 扩展离线安装包
 - [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
-- [regexr](https://regexr.com/) 正则表达式校验
 - [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
 - [extendsclass](https://extendsclass.com/) - Online Tools for Developers
+- [Color Leap](https://colorleap.app/home) - 读取历史照片颜色
 - [Give Me Colors](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
 - [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
+- [excalidraw](https://excalidraw.com/) - 画草图的简易白板工具
+- [tldraw](https://www.tldraw.com/) - tldraw
+- [FigJam](https://www.figma.com/figjam/?ref=stackshare) - FigJam is an online whiteboard for teams to explore ideas together
+- [Awesome Tech Blogs](https://tech-blogs.dev/) - Awesome Tech Blogs
+- [ToolJet](https://tooljet.com/?ref=stackshare) - Open-source low-code framework for building internal tools
 
 ## VSCode插件
+- [Font Matter](https://frontmatter.codes/?ref=stackshare) - The CMS running in VS Code for your static sites 
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -220,41 +228,44 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [VueDX](https://marketplace.visualstudio.com/items?itemName=znck.vue-language-features)
 
 ## 开源书籍
-- [Atomic Design | Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/) - Atomic Design | Atomic Design by Brad Frost
+- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) - Atomic Design by Brad Frost
 - [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) - Learning JavaScript Design Patterns
 - [Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) - 计算机结构和编译电子书资源，javascript 版。
 - [James Clear's 30 Days to Better Habits email course](https://jamesclear.com/30-days) - James Clear's 30 Days to Better Habits email course
+- [Exploring JS](https://exploringjs.com/) - JavaScript books for programmers
+- [The Modern JavaScript Tutorial](https://javascript.info/) - The Modern JavaScript Tutorial
 
 ## 硬件
-- [RGBKB.net](https://www.rgbkb.net/) - RGBKB.net
-- [Vortexgear|Keyboard|Keyca](http://www.vortexgear.tw/) - Vortexgear|Keyboard|Keyca
+- [RGBKB](https://www.rgbkb.net/) - RGBKB.net
+- [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
+- [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
 
 ## 命令行 && shell script
 
 ### 辅助工具
 - [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [command-not-found.com](https://command-not-found.com/) - command-not-found.com
-- [Bash One-Liners](https://www.bashoneliners.com/) - bashoneliners.com | Bash One-Liners
+- [Bash One-Liners](https://www.bashoneliners.com/) - Bash [One Liners](One-Liners)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 学习命令行技巧，提高作为工程师的灵活性和生产力
 - [cheat.sh](https://cheat.sh/) - cheat.sh/:firstpage
-- [styleguide](https://google.github.io/styleguide/shellguide.html) - styleguide | Style guides for Google-originated open-source projects
+- [styleguide](https://google.github.io/styleguide/shellguide.html) - Style guides for Google-originated open-source projects
 - [shell-fu](https://www.shell-fu.org/) - shell-fu
 - [ShellCheck](https://www.shellcheck.net/) - ShellCheck – shell script analysis tool 
 
 ### 增强命令
-- [fasd](https://github.com/clvv/fasd) - clvv/fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [bat](https://github.com/sharkdp/bat) - sharkdp/bat: A cat(1) clone with wings.
-- [exa](https://github.com/ogham/exa) - ogham/exa: A modern replacement for ‘ls’.
-- [fd](https://github.com/sharkdp/fd) - sharkdp/fd: A simple, fast and user-friendly alternative to 'find'
-- [fzf](https://github.com/junegunn/fzf) - junegunn/fzf: A command-line fuzzy finder
-- [tldr](https://github.com/tldr-pages/tldr) - tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands
-- [htop](https://htop.dev/) - htop - an interactive process viewer
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [htop](https://htop.dev/) - an interactive process viewer
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 - [asciinema](https://asciinema.org/) - asciinema - Record and share your terminal sessions, the right way
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - marionebl/svg-term-cli: Share terminal sessions via SVG and CSS
-- [httpie](https://github.com/httpie/httpie) - httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [fig](https://github.com/withfig/fig) - withfig/fig: Public issue tracker for Fig
-- [tig](https://github.com/jonas/tig) - jonas/tig: Text-mode interface for git
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [fig](https://github.com/withfig/fig) - Public issue tracker for Fig
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git
 
 ## 终端应用
 - [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
@@ -267,20 +278,20 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Zsh](https://www.zsh.org/) - Zsh
 - [fish shell](https://fishshell.com/) - fish shell
 - [tmux](https://github.com/tmux/tmux) - tmux/tmux: tmux source code
-- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/) - PowerShell Documentation - PowerShell | Microsoft Docs
+- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/) - Microsoft [Docs](Docs)
 
 ### Zsh plugins
 - [zimfw](https://github.com/zimfw/zimfw) - zimfw/zimfw: Zim: Modular, customizable, and blazing fast Zsh framework
 
 ### Fishshell plugins
-- [plugin-git](https://github.com/jhillyerd/plugin-git) - jhillyerd/plugin-git: Git plugin for Oh My Fish (similar to oh-my-zsh git)
-- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - jorgebucaran/autopair.fish: Auto-complete matching pairs in the Fish command line.
-- [z](https://github.com/jethrokuan/z) - jethrokuan/z: Pure-fish z directory jumping
-- [tide](https://github.com/IlanCosman/tide) - IlanCosman/tide: 🌊 The ultimate Fish prompt.
-- [fzf.fish](https://github.com/PatrickF1/fzf.fish) - PatrickF1/fzf.fish: Augment your fish command line with fzf key bindings.
-- [nvm.fish](https://github.com/jorgebucaran/nvm.fish) - jorgebucaran/nvm.fish: Node.js version manager lovingly made for Fish.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - jorgebucaran/awsm.fish: A curation of prompts, plugins & other resources for Fish. 🐚
-- [Fish shell playground](https://rootnroll.com/d/fish-shell/) - Fish shell playground | rootnroll
+- [plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for Oh My Fish (similar to oh-my-zsh git)
+- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line.
+- [z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+- [tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
+- [fzf.fish](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
+- [nvm.fish](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
+- [Fish shell playground](https://rootnroll.com/d/fish-shell/) - Fish shell playgroun
 
 ## 资源
 
@@ -296,7 +307,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [LibHunt - Trending open-source projects and their alternatives](https://www.libhunt.com/) - LibHunt - Trending open-source projects and their alternatives
 - [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph
 
-### 设计资源
+### 设计资源&&工具
 
 - [coverr][coverr] - 短视频下载网站
 - [Mazwai][mazwai] - 短视频下载网站
@@ -310,6 +321,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [fontsfree](https://fontsfree.net/) - 字体下载
 - [xfonts](https://xfonts.pro/) - 字体下载
 - [figmachina](https://figmachina.com/) - figma 中文学习资源
+- [Vectary](https://www.vectary.com/) - Vectary - Free online 3D design and Augmented Reality platform
+- [Rive](https://rive.app/) - Rive - About Rive
+- [Clipchamp](https://clipchamp.com/en/) - All your video needs in one place 
 
 ### 字幕资源
 
@@ -344,7 +358,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 电子书
 
-- <del>[蚂蚁搬书][蚂蚁搬书] - IT 书籍为主</del>
 - [鸠摩搜索][鸠摩搜索] - 电子书资源搜索引擎
 - [书伴][书伴] - 不支持下载、阅读，只提供 Kindle 图书资源推荐
 - [亚马逊免费电子书][亚马逊免费电子书] - 亚马逊官方网站免费电子书资源
@@ -362,7 +375,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - windows 系统科学上网工具
 - [clashX](https://github.com/yichengchen/clashX) - mac 系统科学上网工具
 
-### 开发资源
+### 开发工具
 
 - [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
 - [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
@@ -371,10 +384,45 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
 - [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
 - [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
+- [regexr](https://regexr.com/) 正则表达式校验
+- [regex101](https://regex101.com/) - build, test, and debug regex
+- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks
+- [Tailwind Play](https://play.tailwindcss.com/) - Tailwind Play
+- [UnoCSS Playground](https://unocss.antfu.me/) - UnoCSS Playground
+- [Visual Studio Code](https://vscode.dev/) - Release Notes: 1.64.2 - default (Workspace) - Visual Studio Code
+- [GitHub1s](https://github1s.com/) - Welcome - conwnet/github1s - GitHub1s
+- [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster - Quod AI
+- [Coder](https://coder.com/) - Coder: Developer workspaces on your infrastructure
+- [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
+
+### cheatsheets
+
+- [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en) - 2021 JavaScript Rising Stars
+- [Devhints](https://devhints.io/) - TL;DR for developer documentation
+- [React Cheatsheet](http://www.developer-cheatsheets.com/) - React Cheatsheet
+- [Cheat Sheets For Every Occasion](https://cheatography.com/) - Download Free Cheat Sheets or Create Your Own
+- [Cheat Sheet](http://www.cheat-sheets.org/) - Cheat Sheet : All Cheat Sheets in one page
+- [HTML Reference](https://htmlreference.io/) - HTML Reference - A free guide to all HTML elements and attributes.
+- [CSS Reference](https://cssreference.io/) - CSS Reference - A free visual guide to CSS
+- [GRID](https://grid.malven.co/) - GRID: A simple visual cheatsheet for CSS Grid Layout
+- [OverAPI.com](https://overapi.com/) - Collecting all the cheat sheets
+- [GitSheet](https://gitsheet.wtf/) - GitSheet
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/) - The best interactive cheat sheet
 
 ### 可视化搭建工具
 - [anima](https://www.animaapp.com/) - 将设计稿直接转换成 HTML、React 或者 Vue 代码
 - [Utopia](https://utopia.app/) - It combines VSCode with a design and preview tool, and full two-way synchronisation: design and code update each other, in real time. 
+
+### 类notion
+- [Focalboard](https://www.focalboard.com/?ref=stackshare) - Focalboard: Open source alternative to Trello, Asana, and Notion
+- [Kitemaker](https://kitemaker.co/?ref=stackshare) - Kitemaker
+- [AppFlowy](https://www.appflowy.io/?ref=stackshare) - AppFlowy.IO
+
+### wiki
+- [BookStack](https://www.bookstackapp.com/?ref=stackshare) - BookStack
+- [Dendron](https://wiki.dendron.so/) - Dendron
+- [personal wiki](https://wiki.nikitavoloboev.xyz/) - 个人 wiki 项目
+- [cheat.sh](https://cheat.sh/)
 
 ### 其他
 
@@ -389,7 +437,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [devurls](http://devurls.com/ ) - 程序员频道
 - [sciurls](http://sciurls.com/) - 科学频道
 - [finurls](https://finurls.com/) - 财经频道
-- [personal wiki](https://wiki.nikitavoloboev.xyz/) - 个人 wiki 项目
 - [Mirror: Create and connect your world on web3](https://mirror.xyz/) - Mirror: Create and connect your world on web3
 - [teddit](https://teddit.net/) - the alternative, privacy respecting, front page of internet.
 
