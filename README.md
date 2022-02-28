@@ -8,39 +8,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 欢迎加入 Telegram 频道：[https://t.me/awesometools](https://t.me/awesometools)
 
-![Open-Source Software][oss icon] **开源**, 点击可打开**开源**仓库;\
-![Freeware][freeware icon] **免费**使用, 或者**免费**个人授权;\
-![App Store][app-store icon] **App store** 下载;\
-![Awesome List][awesome-list icon] 超链接到指定项目的 **Awesome list**;
-
-## 目录
-
-- [Windows](#windows)
-  - [效率工具](#效率工具)
-  - [系统管理](#系统管理)
-  - [截图和录制](#截图和录制)
-  - [桌面美化](#桌面美化)
-- [macOS](#macOS)
-- [Android](#android)
-- [多平台应用](#多平台应用)
-- [Chrome扩展](#Chrome扩展)
-  - [开发相关](#开发相关)
-- [油猴插件](#油猴插件)
-- [在线应用](#在线应用)
-- [VSCode插件](#VSCode插件)
-- [开源书籍](#开源书籍)
-- [硬件](#硬件)
-- [资源](#资源)
-  - [GitHub](#github)
-  - [设计资源](#设计资源)
-  - [字幕资源](#字幕资源)
-  - [网盘资源](#网盘资源)
-  - [学习资源](#学习资源)
-  - [电子书](#电子书)
-  - [虚拟信息](#虚拟信息)
-  - [科学上网](科学上网)
-  - [其他](#其他)
-
 ## Windows
 
 ### 效率工具
