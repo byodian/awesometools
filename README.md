@@ -26,6 +26,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [potplayer][potplayer] - 视频播放器
 - [Flow Launcher](https://www.flowlauncher.com/) - Flow Launcher
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/) - Offline Documentation Browser
+- [Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 
 ### 系统管理
 
@@ -51,9 +52,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
 
 ### 包管理器
-- [Scoop](https://github.com/ScoopInstaller/Scoop) - ScoopInstaller/Scoop: A command-line installer for Windows.
-- [winget-cli](https://github.com/microsoft/winget-cli) - microsoft/winget-cli: Windows Package Manager CLI (aka winget)
-- [Chocolatey Software](https://chocolatey.org/) - Chocolatey - The package manager for Windows
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [Chocolatey Software](https://chocolatey.org/) - The package manager for Windows
 
 ## macOS
 
@@ -70,6 +71,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Script Kit: Shortcut to Everything](https://www.scriptkit.com/) - Script Kit: Shortcut to Everything
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Karabiner-Elements
 - [Numi](https://numi.app/) - Numi. Beautiful calculator app for Mac.
+- [Bob](https://github.com/ripperhe/Bob) - Mac 端翻译软件，支持划词翻译、截图翻译等 
+- [folivora.ai](https://folivora.ai/) - folivora.ai - Great Tools for your Mac!
 
 ## Android
 
@@ -101,6 +104,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
 - [Youtube 视频下载](https://addoncrop.com/)
 - [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
+- [YouTube™双字幕](https://www.dual-subtitles.com/) - Youtube 双字幕，搭配其他翻译工具可实现划词翻译
+- [burningvocabulary](https://burningvocabulary.com/) - 在任何网页上给不认识的单词打标签
 - [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
 - [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
@@ -170,8 +175,9 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [excalidraw](https://excalidraw.com/) - 画草图的简易白板工具
 - [tldraw](https://www.tldraw.com/) - tldraw
 - [FigJam](https://www.figma.com/figjam/?ref=stackshare) - FigJam is an online whiteboard for teams to explore ideas together
-- [Awesome Tech Blogs](https://tech-blogs.dev/) - Awesome Tech Blogs
 - [ToolJet](https://tooljet.com/?ref=stackshare) - Open-source low-code framework for building internal tools
+- [IPAddress.com](https://www.ipaddress.com/) - The Best IP Address, Email and Networking Tools - IPAddress.com
+- [Popsy](https://popsy.co/) - Popsy - Free website builder for Notion
 
 ## VSCode插件
 - [Font Matter](https://frontmatter.codes/?ref=stackshare) - The CMS running in VS Code for your static sites 
@@ -206,6 +212,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [RGBKB](https://www.rgbkb.net/) - RGBKB.net
 - [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
 - [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
+- [kinesis](https://kinesis-ergo.com/keyboards) - keyboards
+- [zFrontier ????](https://www.zfrontier.com/app/#new)
 
 ## 命令行 && shell script
 
@@ -239,6 +247,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Alacritty](https://alacritty.org/) - Alacritty
 - [Warp](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
 - [iTerm2](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
+- [wezterm](https://wezfurlong.org/wezterm/) - Wez's Terminal Emulator
 
 ## shell
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Terminals Are Sexy - Terminals Are Sexy
@@ -283,14 +292,21 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [imgbin](https://imgbin.com/) - 透明 PNG 图片下载
 - [New Old Stock][new old stock] - 历史照片、黑白照片
 - [StreetWill][streetwill] - 人文地理、自然风景类图片
-- [IconMoon](https://icomoon.io/#home) 图标库，可自定义下载
-- [Font Awesome](https://fontawesome.com/) 图标库
 - [fontsfree](https://fontsfree.net/) - 字体下载
 - [xfonts](https://xfonts.pro/) - 字体下载
 - [figmachina](https://figmachina.com/) - figma 中文学习资源
 - [Vectary](https://www.vectary.com/) - Vectary - Free online 3D design and Augmented Reality platform
 - [Rive](https://rive.app/) - Rive - About Rive
 - [Clipchamp](https://clipchamp.com/en/) - All your video needs in one place 
+
+### icons
+- [icons8](https://icons8.com/) - Free Icons, Clipart Illustrations, Photos, and Musick
+- [Icones](https://icones.js.org/)
+- [Illustrations](https://undraw.co/illustrations) - Illustrations, unDraw
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) - SVG Repo - Free SVG Vectors and Icons
+- [OpenMoji](https://openmoji.org/) - OpenMoji
+- [IconMoon](https://icomoon.io/#home) 图标库，可自定义下载
+- [Font Awesome](https://fontawesome.com/) 图标库
 
 ### 字幕资源
 
@@ -406,6 +422,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [finurls](https://finurls.com/) - 财经频道
 - [Mirror: Create and connect your world on web3](https://mirror.xyz/) - Mirror: Create and connect your world on web3
 - [teddit](https://teddit.net/) - the alternative, privacy respecting, front page of internet.
+
+## 类似项目 
+- [The Top 100 Developer Tools of 2021](https://stackshare.io/posts/top-developer-tools-2021#new)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+- [Awesome Tech Blogs](https://tech-blogs.dev/)
+- [Uses - Wes Bos](https://uses.tech/)
 
 [oss icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg 'Open Source Software'
 [freeware icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg 'Freeware'
