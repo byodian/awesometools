@@ -31,6 +31,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ### 系统管理
 
 - [Uninstall Tool][uninstall tool] - 卸载软件工具
+- [Geek Uninstaller](https://geekuninstaller.com/) - Efficient and Fast, Small and Portable. 100% Free
 - [CCleaner][ccleaner] - 清理工具
 - [SpaceSniffer][spacesniffer] - 可视化电脑硬盘空间管理
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
