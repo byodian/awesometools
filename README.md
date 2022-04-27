@@ -150,7 +150,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ## 油猴插件
 - [Google Hit Hider](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
-## 在线应用
+## 在线工具
 
 - [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
 - [drawio](https://drawio-app.com/) - 流程图制作工作
@@ -179,6 +179,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [ToolJet](https://tooljet.com/?ref=stackshare) - Open-source low-code framework for building internal tools
 - [IPAddress.com](https://www.ipaddress.com/) - The Best IP Address, Email and Networking Tools - IPAddress.com
 - [Popsy](https://popsy.co/) - Popsy - Free website builder for Notion
+- [filesamples](https://filesamples.com/) - 获取用于测试目的各种格式的文件样本
 
 ## VSCode插件
 - [Font Matter](https://frontmatter.codes/?ref=stackshare) - The CMS running in VS Code for your static sites 
@@ -214,11 +215,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
 - [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
 - [kinesis](https://kinesis-ergo.com/keyboards) - keyboards
-- [zFrontier ????](https://www.zfrontier.com/app/#new)
+- [zFrontier](https://www.zfrontier.com/app/#new)
 
 ## 命令行 && shell script
 
-### 辅助工具
+### 工具
 - [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument.
 - [command-not-found.com](https://command-not-found.com/) - command-not-found.com
 - [Bash One-Liners](https://www.bashoneliners.com/) - Bash [One Liners](One-Liners)
@@ -406,7 +407,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [BookStack](https://www.bookstackapp.com/?ref=stackshare) - BookStack
 - [Dendron](https://wiki.dendron.so/) - Dendron
 - [personal wiki](https://wiki.nikitavoloboev.xyz/) - 个人 wiki 项目
-- [cheat.sh](https://cheat.sh/)
 
 ### 其他
 
