@@ -74,6 +74,8 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Numi](https://numi.app/) - Numi. Beautiful calculator app for Mac.
 - [Bob](https://github.com/ripperhe/Bob) - Mac 端翻译软件，支持划词翻译、截图翻译等 
 - [folivora.ai](https://folivora.ai/) - folivora.ai - Great Tools for your Mac!
+- [Rectangle](https://rectangleapp.com/) - 免费开源的分屏软件
+- [alt-tab](https://alt-tab-macos.netlify.app/) - 使用 windows 系统 alt+tab 的方式切换 macOS 屏幕
 
 ## Android
 
