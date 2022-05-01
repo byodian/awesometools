@@ -362,7 +362,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - windows 系统科学上网工具
 - [clashX](https://github.com/yichengchen/clashX) - mac 系统科学上网工具
 
-### 开发工具
+### 开发辅助工具
 
 - [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
 - [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
@@ -381,6 +381,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster - Quod AI
 - [Coder](https://coder.com/) - Coder: Developer workspaces on your infrastructure
 - [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
+
+## SSH & SFTP 工具
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+- [WinSCP](https://winscp.net/eng/index.php) - Free SFTP and FTP client for Microsoft Windows
+- [FileZila](https://filezilla-project.org/) - Free FTP Client for all operating system
+- [Cyberduck](https://cyberduck.io/) - Free FTP client for Mac and Windows
 
 ### cheatsheets
 
