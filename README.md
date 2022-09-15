@@ -37,6 +37,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
 - [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
+- [Files Community](https://files.community/) -Files Community 是一个社区开发的window增强版文件管理器。适配window10/11风格 支持主题。更强大的功能
 
 ### 截图和录制
 
