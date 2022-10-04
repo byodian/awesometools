@@ -37,7 +37,12 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
 - [Windows 系统](https://v0v.bid/) - 一句命令激活
 - [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
-- [Files Community](https://files.community/) -Files Community 是一个社区开发的window增强版文件管理器。适配window10/11风格 支持主题。更强大的功能
+- [Files Community](https://files.community/) - Files Community 是一个社区开发的window增强版文件管理器。适配window10/11风格 支持主题。更强大的功能
+
+### 操作系统镜像
+
+- [UUP dump](https://uupdump.net/) - 使用脚本下载文件，支持将文件整合为 ISO 镜像。支持下载微软发布的正式和预览版本的 Windows
+- [Microsoft software download](https://www.microsoft.com/en-us/software-download/) - Windows 操作系统，微软官网提供
 
 ### 截图和录制
 
@@ -103,42 +108,43 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ## Chrome扩展
 
-- [Fireshot][fireshot] - 捕捉网页截图，编辑并将它们保存为 PDF，JPEG，GIF，PNG 或 BMP。
-- [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
-- [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
-- [Youtube 视频下载](https://addoncrop.com/)
+### 语言学习
+
 - [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
 - [YouTube™双字幕](https://www.dual-subtitles.com/) - Youtube 双字幕，搭配其他翻译工具可实现划词翻译
 - [burningvocabulary](https://burningvocabulary.com/) - 在任何网页上给不认识的单词打标签
-- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
-- [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
-- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。
-- [Imagus](https://tiny.cc/Imagus) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
-- [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
-- [Momentum](https://momentumdash.com/) - 简洁标签页。
-- [Google 文档、表格及幻灯片的 Office 编辑扩展程序](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) 离线可用，用 Chrome 直接查看和编辑 Word、Excel、PPT 文档。
-- [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。
-- [Mate Translate](https://gikken.co/mate-translate/) - 翻译器、词典 一站式翻译您的网页、标记的文字段落和 Netflix 影集字幕。快速翻译和学习多达 103 种语言。
-- [网盘直链下载助手](https://www.baiduyun.wiki/) - 油猴脚本 一个免费脚本搞定网盘下载。
-- [Vimium][vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
-- [Video Speed Controller][video speed] - 网页视频加速调节工具，还可以快进广告。
-- [clippings.io](https://www.clippings.io/) 管理 Kindle 设备上的摘抄和笔记
-- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) - 冻结长时间不用的网页，释放系统资源。
 - [沙拉查词](https://saladict.crimx.com/) - 聚合多种词典，可划词翻译。
-- [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - Push to Kindle 是一项推送网页文章到 kiddle 的免费服务。该插件提供了一种快捷的方式，只需点击扩展按钮即可将文章发送到 Kindle 或者其他电子阅读器上。
-- [uAutoPagerize](https://chrome.google.com/webstore/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb) - 自动加载网页搜索结果的分页内容。
-- [Check My Links][Check-My-Links] - 快速检查网页中所有的链接是否有效
-- [Chrono下载管理器][Chrono Download Manager] - Chrono接管你在Chrome中的所有下载，并添加了对浏览器菜单、工具栏和快捷键的支持 。
-- [OneTab][onetab] - 单击OneTab图标，将所有标签页转换成一个列表,节省内存，并减轻标签页混乱现象
 - [Language Learning with Netflix][Language Learning with Netflix] - 在Netflix网站上观看视频时，字幕以两种语言显示，允许您将原始音频和文本与您的语言翻译进行比较。
+- [Relingo](https://relingo.net/en/index) - Read interesting English articles, watch interesting videos and master vocabulary step by step
+- [Mate Translate](https://gikken.co/mate-translate/) - 翻译器、词典 一站式翻译您的网页、标记的文字段落和 Netflix 影集字幕。快速翻译和学习多达 103 种语言。
+
+### 图片编辑和下载
+- [Fireshot][fireshot] - 捕捉网页截图，编辑并将它们保存为 PDF，JPEG，GIF，PNG 或 BMP。
+- [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
+- [image-downloader](https://pactinteractive.github.io/image-downloader/) - 拉取网站图片资源开源扩展
+- [Imagus](https://tiny.cc/Imagus) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
+- [Video Speed Controller][video speed] - 网页视频加速调节工具，还可以快进广告。
+
+### 社交媒体和流媒体
+- [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
+- [Youtube 视频下载](https://addoncrop.com/)
+- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [All Netflix Categories][All Netflix Categories] - Netflix has tons of hidden categories — this extension unlocks more than 27000 Hidden Netflix Secret Categories.
 - [Trim: IMDB Ratings on Netflix][Trim: IMDB Ratings on Netflix] - Show IMDB and Rotten Tomatoes ratings on Netflix and Amazon Prime Video
 - [Twemex][twemex] - Get more insight from Twitter 使用侧边栏显示热门推文
-- [image-downloader](https://pactinteractive.github.io/image-downloader/) - 拉取网站图片资源开源扩展
-- [Relingo](https://relingo.net/en/index) - Read interesting English articles, watch interesting videos and master vocabulary step by step
+
+### 管理
+- [OneTab][onetab] - 单击OneTab图标，将所有标签页转换成一个列表,节省内存，并减轻标签页混乱现象
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) - 冻结长时间不用的网页，释放系统资源。
+- [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
+- [Momentum](https://momentumdash.com/) - 简洁标签页。
+- [uAutoPagerize](https://chrome.google.com/webstore/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb) - 自动加载网页搜索结果的分页内容。
+- [Check My Links][Check-My-Links] - 快速检查网页中所有的链接是否有效
+- [Chrono下载管理器][Chrono Download Manager] - Chrono接管你在Chrome中的所有下载，并添加了对浏览器菜单、工具栏和快捷键的支持 。
+- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。
  
-### 开发相关
+### 编程开发
 
 - [GitZip for github][gitzip] - 下载 github 单个文件扩展
 - [Octotree][octotree] - github 项目目录
@@ -153,7 +159,16 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 ## 油猴插件
 - [Google Hit Hider](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
-## 在线工具
+### 其他
+- [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
+- [clippings.io](https://www.clippings.io/) 管理 Kindle 设备上的摘抄和笔记
+- [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - Push to Kindle 是一项推送网页文章到 kiddle 的免费服务。该插件提供了一种快捷的方式，只需点击扩展按钮即可将文章发送到 Kindle 或者其他电子阅读器上。
+- [Google 文档、表格及幻灯片的 Office 编辑扩展程序](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) 离线可用，用 Chrome 直接查看和编辑 Word、Excel、PPT 文档。
+- [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。
+- [Vimium][vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
+- [网盘直链下载助手](https://www.baiduyun.wiki/) - 油猴脚本 一个免费脚本搞定网盘下载。
+
+## Oneline Tools
 
 - [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
 - [drawio](https://drawio-app.com/) - 流程图制作工作
@@ -213,7 +228,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Exploring JS](https://exploringjs.com/) - JavaScript books for programmers
 - [The Modern JavaScript Tutorial](https://javascript.info/) - The Modern JavaScript Tutorial
 
-## 硬件
+## 硬件产品
 - [RGBKB](https://www.rgbkb.net/) - RGBKB.net
 - [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
 - [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
@@ -274,9 +289,63 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [Fish shell playground](https://rootnroll.com/d/fish-shell/) - Fish shell playgroun
 
+## 编程开发工具
+
+### 集合
+
+- [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
+- [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
+- [china_regions](https://github.com/wecatch/china_regions) - 全最新中国省，市，地区json及sql数据
+- [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
+- [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
+- [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
+- [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
+- [regexr](https://regexr.com/) 正则表达式校验
+- [regex101](https://regex101.com/) - build, test, and debug regex
+- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks
+- [Tailwind Play](https://play.tailwindcss.com/) - Tailwind Play
+- [UnoCSS Playground](https://unocss.antfu.me/) - UnoCSS Playground
+- [Visual Studio Code](https://vscode.dev/) - Release Notes: 1.64.2 - default (Workspace) - Visual Studio Code
+- [GitHub1s](https://github1s.com/) - Welcome - conwnet/github1s - GitHub1s
+- [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster - Quod AI
+- [Coder](https://coder.com/) - Coder: Developer workspaces on your infrastructure
+- [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
+
+### SSH & SFTP 工具
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+- [WinSCP](https://winscp.net/eng/index.php) - Free SFTP and FTP client for Microsoft Windows
+- [FileZila](https://filezilla-project.org/) - Free FTP Client for all operating system
+- [Cyberduck](https://cyberduck.io/) - Free FTP client for Mac and Windows
+
+### cheatsheets
+
+- [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en) - 2021 JavaScript Rising Stars
+- [Devhints](https://devhints.io/) - TL;DR for developer documentation
+- [React Cheatsheet](http://www.developer-cheatsheets.com/) - React Cheatsheet
+- [Cheat Sheets For Every Occasion](https://cheatography.com/) - Download Free Cheat Sheets or Create Your Own
+- [Cheat Sheet](http://www.cheat-sheets.org/) - Cheat Sheet : All Cheat Sheets in one page
+- [HTML Reference](https://htmlreference.io/) - HTML Reference - A free guide to all HTML elements and attributes.
+- [CSS Reference](https://cssreference.io/) - CSS Reference - A free visual guide to CSS
+- [GRID](https://grid.malven.co/) - GRID: A simple visual cheatsheet for CSS Grid Layout
+- [OverAPI.com](https://overapi.com/) - Collecting all the cheat sheets
+- [GitSheet](https://gitsheet.wtf/) - GitSheet
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/) - The best interactive cheat sheet
+
 ## 资源
 
-### GitHub
+### 制作 U 盘启动器
+
+- [rufus](https://rufus.ie/en/) - For Windows
+- [balenaEtcher](https://www.balena.io/etcher/) - For Mac
+- [WoeUSB](https://github.com/slacka/WoeUSB) - For Linux Desktop
+
+### 虚拟机软件平台
+
+- [Vmware](https://www.vmware.com/)
+- [VirtualBox](https://www.virtualbox.org/) 
+- [Parallels](https://www.parallels.com/)
+
+### GitHub 项目
 
 - [GitHub Topic][github topic] - github 中优秀的项目
 - [GitHub Trend][github trend] - github 每天受欢迎的项目排行
@@ -288,7 +357,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [LibHunt - Trending open-source projects and their alternatives](https://www.libhunt.com/) - LibHunt - Trending open-source projects and their alternatives
 - [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph
 
-### 设计资源&&工具
+### 设计资源和工具
 
 - [coverr][coverr] - 短视频下载网站
 - [Mazwai][mazwai] - 短视频下载网站
@@ -363,51 +432,11 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - windows 系统科学上网工具
 - [clashX](https://github.com/yichengchen/clashX) - mac 系统科学上网工具
 
-### 开发辅助工具
-
-- [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
-- [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
-- [china_regions](https://github.com/wecatch/china_regions) - 全最新中国省，市，地区json及sql数据
-- [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
-- [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
-- [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
-- [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
-- [regexr](https://regexr.com/) 正则表达式校验
-- [regex101](https://regex101.com/) - build, test, and debug regex
-- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks
-- [Tailwind Play](https://play.tailwindcss.com/) - Tailwind Play
-- [UnoCSS Playground](https://unocss.antfu.me/) - UnoCSS Playground
-- [Visual Studio Code](https://vscode.dev/) - Release Notes: 1.64.2 - default (Workspace) - Visual Studio Code
-- [GitHub1s](https://github1s.com/) - Welcome - conwnet/github1s - GitHub1s
-- [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster - Quod AI
-- [Coder](https://coder.com/) - Coder: Developer workspaces on your infrastructure
-- [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
-
-## SSH & SFTP 工具
-- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
-- [WinSCP](https://winscp.net/eng/index.php) - Free SFTP and FTP client for Microsoft Windows
-- [FileZila](https://filezilla-project.org/) - Free FTP Client for all operating system
-- [Cyberduck](https://cyberduck.io/) - Free FTP client for Mac and Windows
-
-### cheatsheets
-
-- [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en) - 2021 JavaScript Rising Stars
-- [Devhints](https://devhints.io/) - TL;DR for developer documentation
-- [React Cheatsheet](http://www.developer-cheatsheets.com/) - React Cheatsheet
-- [Cheat Sheets For Every Occasion](https://cheatography.com/) - Download Free Cheat Sheets or Create Your Own
-- [Cheat Sheet](http://www.cheat-sheets.org/) - Cheat Sheet : All Cheat Sheets in one page
-- [HTML Reference](https://htmlreference.io/) - HTML Reference - A free guide to all HTML elements and attributes.
-- [CSS Reference](https://cssreference.io/) - CSS Reference - A free visual guide to CSS
-- [GRID](https://grid.malven.co/) - GRID: A simple visual cheatsheet for CSS Grid Layout
-- [OverAPI.com](https://overapi.com/) - Collecting all the cheat sheets
-- [GitSheet](https://gitsheet.wtf/) - GitSheet
-- [HTML Cheat Sheet](https://htmlcheatsheet.com/) - The best interactive cheat sheet
-
 ### 可视化搭建工具
 - [anima](https://www.animaapp.com/) - 将设计稿直接转换成 HTML、React 或者 Vue 代码
 - [Utopia](https://utopia.app/) - It combines VSCode with a design and preview tool, and full two-way synchronisation: design and code update each other, in real time. 
 
-### 类notion
+### 类 notion
 - [Focalboard](https://www.focalboard.com/?ref=stackshare) - Focalboard: Open source alternative to Trello, Asana, and Notion
 - [Kitemaker](https://kitemaker.co/?ref=stackshare) - Kitemaker
 - [AppFlowy](https://www.appflowy.io/?ref=stackshare) - AppFlowy.IO
