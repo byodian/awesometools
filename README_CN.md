@@ -10,7 +10,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ## Windows
 
-### Productivity
+### 效率工具
 
 - [Listary][listary] - 搜索文件和快速启动软件
 - [Wox][wox] - 快速启动软件
@@ -28,7 +28,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/) - Offline Documentation Browser
 - [Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 
-### Utilities
+### 系统管理
 
 - [Uninstall Tool][uninstall tool] - 卸载软件工具
 - [Geek Uninstaller](https://geekuninstaller.com/) - Efficient and Fast, Small and Portable. 100% Free
@@ -39,23 +39,29 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
 - [Files Community](https://files.community/) - Files Community 是一个社区开发的window增强版文件管理器。适配window10/11风格 支持主题。更强大的功能
 
-### Graphics
+### 操作系统镜像
 
-- [Rainmeter][rainmeter] - 卓面美化程序
-- [Wallpaper][wallpaper] - steam 平台美化桌面工具
-- [RocketDock][rocketdock] - Windows 桌面任务栏
-- [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的桌面主题
-- [Snipaste][snipaste] - 截图和贴图工具
+- [UUP dump](https://uupdump.net/) - 使用脚本下载文件，支持将文件整合为 ISO 镜像。支持下载微软发布的正式和预览版本的 Windows
+- [Microsoft software download](https://www.microsoft.com/en-us/software-download/) - Windows 操作系统，微软官网提供
+
+### 截图和录制
+
+- [Snipaste][snipaste] - 截图 + 贴图工具
 - [Picpick][pickpick] - 图像编辑器
 - [Carnac][carnac] - 录制按键操作
 - [ScreenToGif][screentogif] - 视频、动图录制和编辑
 
-### Miscellaneous
+### 桌面美化
+
+- [Rainmeter][rainmeter] - 卓面美化程序
+- [Wallpaper][wallpaper] - steam 平台美化桌面工具
+- [RocketDock][rocketdock] - Windows 桌面任务栏
+- [deviantart][deviantart] - 支持 RocketDock 和 Rainmeter 的主题
+
+### 包管理器
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [Chocolatey Software](https://chocolatey.org/) - The package manager for Windows
-- [UUP dump](https://uupdump.net/) - 多版本Windows 镜像，支持使用脚本下载
-- [Microsoft software download](https://www.microsoft.com/en-us/software-download/) - Windows 操作系统镜像
 
 ## macOS
 
@@ -83,61 +89,26 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [F-Droid][f-droid] - 免费开源的安卓应用市场
 - [NewPipe][newpipe] - 轻量级第三方 Youtube 客户端，支持后台视频播放
 - [YMusic][ymusic]- 第三方 Youtube 音乐播放器，支持后台播放
-- [Kiwi Browser](https://kiwibrowser.com/) - Kiwi browser
+- [Kiwi Browser](https://kiwibrowser.com/) - Kiwi Browser
 
-## Web Apps
-
-### Graphics
-
-- [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
-- [removebg](https://www.remove.bg/zh) - 去除人像图片背景，自动抠图。
-- [getavataaars][卡通] - 卡通图像生成器
-- [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
-- [Color Leap](https://colorleap.app/home) - 读取历史照片颜色
-- [Give Me Colors](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
-- [突字幕](https://2zimu.com/) - 上传视频，得字幕。
-
-### Productivity
-- [pdf.to](https://pdf.to/) - PDF 格式转换
-- [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 格式转换
-- [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/)
-- [Chrome Extension Downloader][chrome extension downloader] - Chrome 扩展离线安装包
-- [Crx][crx] - 下载 Chrome 扩展离线安装包
-- [filesamples](https://filesamples.com/) - 获取用于测试目的各种格式的文件样本
-- [Zero Width Shortener](https://zws.im/) - 短网址生成器
-- [transform](https://transform.tools/) - 多种 web 语言转换器
-- [IPAddress.com](https://www.ipaddress.com/) - The Best IP Address, Email and Networking Tools - IPAddress.com
-- [drawio](https://drawio-app.com/) - 流程图制作工作
-- [excalidraw](https://excalidraw.com/) - 画草图的简易白板工具
-- [tldraw](https://www.tldraw.com/) - tldraw
-- [FigJam](https://www.figma.com/figjam/?ref=stackshare) - FigJam is an online whiteboard for teams to explore ideas together
-- [ToolJet](https://tooljet.com/?ref=stackshare) - Open-source low-code framework for building internal tools
-
-### Miscellaneous
-- [双拼输入法][sp] - 在线练习应用
-- [bulletjournal](https://bulletjournal.app/) - 子弹笔记
-- [Learning Git Branching](https://learngitbranching.js.org/) - 关卡挑战，逐步深入的学习 Git 的功能。
-- [TDEE Calculator](https://tdeecalculator.net/) - 计算每天燃烧的卡路里。它首先提供基础的代谢消耗，然后这个值乘以活动因子，得出你在不同锻炼频率下的卡路里消耗值。
-- [extendsclass](https://extendsclass.com/) - Online Tools for Developers
-- [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
-- [Popsy](https://popsy.co/) - Popsy - Free website builder for Notion
-
-
-## Cross-Platform
+## 多平台应用
 
 - [stoop](https://stoopinbox.com/) - A newsletter app
 - [Anydesk](https://anydesk.com/zhs) 远程协作
 - [textexpander](https://textexpander.com/) - 文本替换工具，提高打字效率。
 - [aText](https://trankynam.com/atext/) - 使用缩略语快速替换你自定义频繁使用的短语
+- [PxCook](https://www.fancynode.com.cn/pxcook) - 效易用的自动标注工具, 生成前端代码, 设计研发协作利器
+- [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
+- [Knotes][knotes] - kindle 标注笔记导出工具
 - [Calibre][calibre] - 电子图书管理，格式转换
 - [Koodo Reader](https://koodo.960960.xyz/en) - Koodo Reader
 - [sodaplayer](https://www.sodaplayer.com/) 种子播放器
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][typora] - markdown 编辑器
 
-## Chrome Extensions
+## Chrome扩展
 
-### Language
+### 语言学习
 
 - [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
 - [YouTube™双字幕](https://www.dual-subtitles.com/) - Youtube 双字幕，搭配其他翻译工具可实现划词翻译
@@ -148,30 +119,32 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [Relingo](https://relingo.net/en/index) - Read interesting English articles, watch interesting videos and master vocabulary step by step
 - [Mate Translate](https://gikken.co/mate-translate/) - 翻译器、词典 一站式翻译您的网页、标记的文字段落和 Netflix 影集字幕。快速翻译和学习多达 103 种语言。
 
-### Productivity
-
+### 图片编辑和下载
 - [Fireshot][fireshot] - 捕捉网页截图，编辑并将它们保存为 PDF，JPEG，GIF，PNG 或 BMP。
 - [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
 - [image-downloader](https://pactinteractive.github.io/image-downloader/) - 拉取网站图片资源开源扩展
 - [Imagus](https://tiny.cc/Imagus) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
+- [Video Speed Controller][video speed] - 网页视频加速调节工具，还可以快进广告。
+
+### 社交媒体和流媒体
 - [Youtube Subscription Manager](https://yousub.info/) - 使用文件夹管理订阅的 YouTube 频道。
 - [Youtube 视频下载](https://addoncrop.com/)
+- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [All Netflix Categories][All Netflix Categories] - Netflix has tons of hidden categories — this extension unlocks more than 27000 Hidden Netflix Secret Categories.
 - [Trim: IMDB Ratings on Netflix][Trim: IMDB Ratings on Netflix] - Show IMDB and Rotten Tomatoes ratings on Netflix and Amazon Prime Video
-- [GoodTwitter](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) 强制浏览器使用旧版 twitter。 已停止支持
 - [Twemex][twemex] - Get more insight from Twitter 使用侧边栏显示热门推文
+
+### 管理
 - [OneTab][onetab] - 单击OneTab图标，将所有标签页转换成一个列表,节省内存，并减轻标签页混乱现象
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) - 冻结长时间不用的网页，释放系统资源。
+- [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
+- [Momentum](https://momentumdash.com/) - 简洁标签页。
 - [uAutoPagerize](https://chrome.google.com/webstore/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb) - 自动加载网页搜索结果的分页内容。
 - [Check My Links][Check-My-Links] - 快速检查网页中所有的链接是否有效
 - [Chrono下载管理器][Chrono Download Manager] - Chrono接管你在Chrome中的所有下载，并添加了对浏览器菜单、工具栏和快捷键的支持 。
 - [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器。
-- [Google Hit Hider](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
-- [Video Speed Controller][video speed] - 网页视频加速调节工具，还可以快进广告。 
-- [Vimium][vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
-- [网盘直链下载助手](https://www.baiduyun.wiki/) - 油猴脚本 一个免费脚本搞定网盘下载。
-
-### Developer Tools
+ 
+### 编程开发
 
 - [GitZip for github][gitzip] - 下载 github 单个文件扩展
 - [Octotree][octotree] - github 项目目录
@@ -183,18 +156,50 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [json-viewer][jsonviewer] - 格式化、高亮显示 JSON 数据
 - [Fonts Ninja][fontsninja] - 可识别网页中的字体类型，加快设计速度，适合网页设计师和前端开发者
 
-### Miscellaneous
+### 油猴插件
+- [Google Hit Hider](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) - Block unwanted sites from your Google, DuckDuckGo, Startpage.com, Bing and Yahoo search results
 
+### 其他
 - [Markdown Here](https://markdown-here.com/) - 转换 Markdown 格式的文本。
 - [clippings.io](https://www.clippings.io/) 管理 Kindle 设备上的摘抄和笔记
 - [Push to Kindle](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc) - Push to Kindle 是一项推送网页文章到 kiddle 的免费服务。该插件提供了一种快捷的方式，只需点击扩展按钮即可将文章发送到 Kindle 或者其他电子阅读器上。
 - [Google 文档、表格及幻灯片的 Office 编辑扩展程序](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) 离线可用，用 Chrome 直接查看和编辑 Word、Excel、PPT 文档。
 - [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。
-- [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
-- [Momentum](https://momentumdash.com/) - 简洁标签页。
+- [Vimium][vimium] 根据 Vim 编辑器的操作习惯，提供导航和控制的键盘快捷键
+- [网盘直链下载助手](https://www.baiduyun.wiki/) - 油猴脚本 一个免费脚本搞定网盘下载。
 
-## VSCode Extensions
+## Oneline Tools
 
+- [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
+- [drawio](https://drawio-app.com/) - 流程图制作工作
+- [pdf.to](https://pdf.to/) - PDF 格式转换
+- [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 格式转换
+- [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/)
+- [transform](https://transform.tools/) - 多种 web 语言转换器
+- [removebg](https://www.remove.bg/zh) - 去除人像图片背景，自动抠图。
+- [getavataaars][卡通] - 卡通图像生成器
+- [双拼输入法][sp] - 在线练习应用
+- [bulletjournal](https://bulletjournal.app/) - 子弹笔记
+- [Zero Width Shortener](https://zws.im/) - 短网址生成器
+- [突字幕](https://2zimu.com/) - 上传视频，得字幕。
+- [Learning Git Branching](https://learngitbranching.js.org/) - 关卡挑战，逐步深入的学习 Git 的功能。
+- [TDEE Calculator](https://tdeecalculator.net/) - 计算每天燃烧的卡路里。它首先提供基础的代谢消耗，然后这个值乘以活动因子，得出你在不同锻炼频率下的卡路里消耗值。
+- [Crx][crx] - 下载 Chrome 扩展离线安装包
+- [Chrome Extension Downloader][chrome extension downloader] - 下载 Chrome 扩展离线安装包
+- [Image Extractor](https://extract.pics/) - 拉取网站中所有的图片资源，适合前端开发，参考这篇文章 [Master Frontend Development 💻 By Cloning These Websites](https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08)
+- [extendsclass](https://extendsclass.com/) - Online Tools for Developers
+- [Color Leap](https://colorleap.app/home) - 读取历史照片颜色
+- [Give Me Colors](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
+- [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
+- [excalidraw](https://excalidraw.com/) - 画草图的简易白板工具
+- [tldraw](https://www.tldraw.com/) - tldraw
+- [FigJam](https://www.figma.com/figjam/?ref=stackshare) - FigJam is an online whiteboard for teams to explore ideas together
+- [ToolJet](https://tooljet.com/?ref=stackshare) - Open-source low-code framework for building internal tools
+- [IPAddress.com](https://www.ipaddress.com/) - The Best IP Address, Email and Networking Tools - IPAddress.com
+- [Popsy](https://popsy.co/) - Popsy - Free website builder for Notion
+- [filesamples](https://filesamples.com/) - 获取用于测试目的各种格式的文件样本
+
+## VSCode插件
 - [Font Matter](https://frontmatter.codes/?ref=stackshare) - The CMS running in VS Code for your static sites 
 - [Quokka.js](https://quokkajs.com/) Runtime values are updated and displayed in your IDE next to your code, as you type.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
@@ -258,8 +263,6 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 
 ## 终端应用
-
-- [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
 - [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
 - [Alacritty](https://alacritty.org/) - Alacritty
 - [Warp](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
