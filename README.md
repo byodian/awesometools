@@ -279,6 +279,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 
 ## Resources
 
+- [videoCenter](https://yszx11.top/) Search Video
 - [coverr][coverr] - 短视频下载网站
 - [Mazwai][mazwai] - 短视频下载网站
 - [pexels][pexels] - 图片库，支持关键词、颜色搜索
