@@ -359,6 +359,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 
 ### 设计资源和工具
 
+- [影视中心](https://yszx11.top/) - 短剧电影搜索中心
 - [coverr][coverr] - 短视频下载网站
 - [Mazwai][mazwai] - 短视频下载网站
 - [pexels][pexels] - 图片库，支持关键词、颜色搜索
