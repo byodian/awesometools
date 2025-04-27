@@ -7,8 +7,7 @@
 Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和学习资源，项目灵感来源于 [Awesome macOS](https://github.com/iCHAIT/awesome-macOS 'Awesome macOS')、[Awesome](https://github.com/Awesome-Windows/Awesome.git)、[Windows 绝赞应用](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn)。
 
 欢迎加入 Telegram 频道：[https://t.me/awesometools](https://t.me/awesometools)
-
-## Productivity
+## Applications
 ### Windows
 
 - [Listary][listary] - 搜索文件和快速启动软件
@@ -87,7 +86,22 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][typora] - markdown 编辑器
 
-### Web Apps
+### Terminal
+- [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
+- [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
+- [Alacritty](https://alacritty.org/) - Alacritty
+- [Warp](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
+- [iTerm2](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
+- [wezterm](https://wezfurlong.org/wezterm/) - Wez's Terminal Emulator
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+- [WinSCP](https://winscp.net/eng/index.php) - Free SFTP and FTP client for Microsoft Windows
+- [FileZila](https://filezilla-project.org/) - Free FTP Client for all operating system
+- [Cyberduck](https://cyberduck.io/) - Free FTP client for Mac and Windows
+- [Vmware](https://www.vmware.com/)
+- [VirtualBox](https://www.virtualbox.org/) 
+- [Parallels](https://www.parallels.com/)
+
+### Web Tools
 
 - [pdf.to](https://pdf.to/) - PDF 格式转换
 - [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 格式转换
@@ -116,7 +130,30 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [Color Leap](https://colorleap.app/home) - 读取历史照片颜色
 - [Give Me Colors](https://observablehq.com/@makio135/give-me-colors) - Give Me Colors / Lionel Radisson / Observable
 
-### Chrome Extensions
+#### Development & Debugging Tools
+- [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
+- [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
+- [china_regions](https://github.com/wecatch/china_regions) - 全最新中国省，市，地区json及sql数据
+- [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
+- [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
+- [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
+- [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
+- [regexr](https://regexr.com/) 正则表达式校验
+- [regex101](https://regex101.com/) - build, test, and debug regex
+- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks
+- [Tailwind Play](https://play.tailwindcss.com/) - Tailwind Play
+- [UnoCSS Playground](https://unocss.antfu.me/) - UnoCSS Playground
+- [Visual Studio Code](https://vscode.dev/) - Online Visual Studio Code 
+- [GitHub1s](https://github1s.com/) - GitHub1s
+- [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster
+- [Coder](https://coder.com/) - Developer workspaces on your infrastructure
+- [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
+- [shields](https://shields.io/) - Quality metadata badges for open source projects
+- [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
+- [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph
+- [i18ns](https://i18ns.com/zh/index.html) - App&Web 国际化翻译搜索。
+
+## Chrome Extensions
 
 - [Fireshot][fireshot] - 捕捉网页截图，编辑并将它们保存为 PDF，JPEG，GIF，PNG 或 BMP。
 - [网页截图:注释&录屏](https://www.awesomescreenshot.com/) - 网页截图:注释&录屏。
@@ -154,9 +191,20 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [Infinity 新标签页](https://www.infinitynewtab.com/) - Infinity 新标签页。
 - [Momentum](https://momentumdash.com/) - 简洁标签页。
 
-## For Developers
+  ### Development & Debugging Tools
 
-### Utilities
+- [GitZip for github][gitzip] - 下载 github 单个文件扩展
+- [Octotree][octotree] - github 项目目录
+- [GitHub Repository Size][gitsize] - 显示 github 仓库大小
+- [Web Developer](https://chrispederick.com/work/web-developer/) - Web 开发。
+- [Site Palette](http://palette.site/) - 拾取网页颜色。
+- [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
+- [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
+- [json-viewer][jsonviewer] - 格式化、高亮显示 JSON 数据
+- [Fonts Ninja][fontsninja] - 可识别网页中的字体类型，加快设计速度，适合网页设计师和前端开发者
+
+## Resources
+### Command-Line Tools
 
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -185,60 +233,9 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [nvm.fish](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
 - [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [Fish shell playground](https://rootnroll.com/d/fish-shell/) - Fish shell playgroun
-- [prism-break](https://prism-break.org/zh-CN/) - 隐私/安全 全套软件。
 
-### Applications
-
-- [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
-- [kitty](https://sw.kovidgoyal.net/kitty/) - kitty
-- [Alacritty](https://alacritty.org/) - Alacritty
-- [Warp](https://www.warp.dev/) - Warp—The blazingly fast, Rust-based terminal
-- [iTerm2](https://iterm2.com/) - iTerm2 - macOS Terminal Replacement 
-- [wezterm](https://wezfurlong.org/wezterm/) - Wez's Terminal Emulator
-- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
-- [WinSCP](https://winscp.net/eng/index.php) - Free SFTP and FTP client for Microsoft Windows
-- [FileZila](https://filezilla-project.org/) - Free FTP Client for all operating system
-- [Cyberduck](https://cyberduck.io/) - Free FTP client for Mac and Windows
-- [Vmware](https://www.vmware.com/)
-- [VirtualBox](https://www.virtualbox.org/) 
-- [Parallels](https://www.parallels.com/)
-
-### Web Apps
-
-- [地图选择器](https://datav.aliyun.com/tools/atlas/index.html) - 下载中国省、市、县的 [GeoJSON](https://geojson.org/) 地理数据
-- [echarts-maps](https://github.com/echarts-maps) - 非 Apache ECharts 官方项目，独立维护的 echart 地图数据
-- [china_regions](https://github.com/wecatch/china_regions) - 全最新中国省，市，地区json及sql数据
-- [Combine GeoJSON files](https://findthatpostcode.uk/tools/merge-geojson) - 合并多个 GeoJSON 文件
-- [Great landing pages for your products](https://pazly.dev/) - Build fast without coding. Drag and drop editable components and build beautiful responsive websites.
-- [CanInclude](https://caninclude.glitch.me/) - 基于 HTML 标准文档，检查一个 HTML 标签是否可以包含在另一个标签元素里。
-- [Can I use](https://caniuse.com/) - 检查前端技术在现代桌面和手机端浏览器的支持程度
-- [regexr](https://regexr.com/) 正则表达式校验
-- [regex101](https://regex101.com/) - build, test, and debug regex
-- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks
-- [Tailwind Play](https://play.tailwindcss.com/) - Tailwind Play
-- [UnoCSS Playground](https://unocss.antfu.me/) - UnoCSS Playground
-- [Visual Studio Code](https://vscode.dev/) - Online Visual Studio Code 
-- [GitHub1s](https://github1s.com/) - GitHub1s
-- [Quod AI](https://www.quod.ai/?ref=stackshare) - Find the code you need faster
-- [Coder](https://coder.com/) - Developer workspaces on your infrastructure
-- [GitHub Wrapped](https://wrapped.run/) - GitHub Wrapped
-- [shields](https://shields.io/) - Quality metadata badges for open source projects
-- [StaticGen](https://www.staticgen.com/) 开源静态博客生成器热度排行
-- [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph
-
-### Chorme Extensions
-
-- [GitZip for github][gitzip] - 下载 github 单个文件扩展
-- [Octotree][octotree] - github 项目目录
-- [GitHub Repository Size][gitsize] - 显示 github 仓库大小
-- [Web Developer](https://chrispederick.com/work/web-developer/) - Web 开发。
-- [Site Palette](http://palette.site/) - 拾取网页颜色。
-- [keyframes.app](https://keyframes.app/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
-- [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) - 将 github 提交信息切换成更直观的 3D 柱状图。
-- [json-viewer][jsonviewer] - 格式化、高亮显示 JSON 数据
-- [Fonts Ninja][fontsninja] - 可识别网页中的字体类型，加快设计速度，适合网页设计师和前端开发者
-
-### Guides
+### Learning Resources
+#### Guides
 
 - [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en) - 2021 JavaScript Rising Stars
 - [Devhints](https://devhints.io/) - TL;DR for developer documentation
@@ -259,8 +256,9 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [shell-fu](https://www.shell-fu.org/) - shell-fu
 - [ShellCheck](https://www.shellcheck.net/) - ShellCheck – shell script analysis tool 
 - [styleguide](https://google.github.io/styleguide/shellguide.html) - Style guides for Google-originated open-source projects
+- [Developer Roadmaps](https://roadmap.sh/roadmaps) - Developer Roadmaps
 
-### Books
+#### Books
 
 - [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) - Atomic Design by Brad Frost
 - [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) - Learning JavaScript Design Patterns
@@ -269,15 +267,22 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [Exploring JS](https://exploringjs.com/) - JavaScript books for programmers
 - [The Modern JavaScript Tutorial](https://javascript.info/) - The Modern JavaScript Tutorial
 
-### Hardware
+#### Online Courses
+- [freecodecamp](https://www.freecodecamp.org/)
+- [prototypr][prototypr] - 设计相关的新闻和工具
+- [Class Cental](https://www.classcentral.com) - 免费的网络和公开课搜索引擎，赶紧安排学习起来。
+- [Coursera](https://www.coursera.org/) - Coursera 的在线课程由世界上顶尖大学和公司的讲师提供教学。
+- [Udemy](https://www.udemy.com/) - Udemy 课程种类丰富，什么课程都有，类似于淘宝的在线教育平台。
+- [Khan Academy](https://zh.khanacademy.org/) - 可汗学院提供练习习题, 教学视频和个性化的学习界面，让学习者能够在课堂内外按照自己的进度学习。
+- [code.org](https://code.org/) - Code.org® 是一个非营利组织。它致力于为学校、妇女和少数族裔提供学习计算机科学的机会。
+- [DevTube](https://dev.tube/) -  The best developer videos in one place.
+- [wikiHow](https://zh.wikihow.com/) - wikiHow 以「如何做某事」的提问方式，提供了很多实用的百科指南。
+- [数学乐](https://www.shuxuele.com/) - 有趣及易懂的方法来演示数学，本网站旨在覆盖整个幼儿园到高中的数学课程。
+- [AutoHotkey 学习指南](https://www.autohotkey.com/boards/viewtopic.php?f=29&t=1099) - AutoHotkey 中文学习指南。
+- [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
+- [figmachina](https://figmachina.com/) - figma 中文学习资源
 
-- [RGBKB](https://www.rgbkb.net/) - RGBKB.net
-- [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
-- [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
-- [kinesis](https://kinesis-ergo.com/keyboards) - keyboards
-- [zFrontier](https://www.zfrontier.com/app/#new) - forums
-
-## Resources
+### Media Resources
 
 - [coverr][coverr] - 短视频下载网站
 - [Mazwai][mazwai] - 短视频下载网站
@@ -288,7 +293,6 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [StreetWill][streetwill] - 人文地理、自然风景类图片
 - [fontsfree](https://fontsfree.net/) - 字体下载
 - [xfonts](https://xfonts.pro/) - 字体下载
-- [figmachina](https://figmachina.com/) - figma 中文学习资源
 - [Vectary](https://www.vectary.com/) - Vectary - Free online 3D design and Augmented Reality platform
 - [Rive](https://rive.app/) - Rive - About Rive
 - [Clipchamp](https://clipchamp.com/en/) - All your video needs in one place 
@@ -303,24 +307,15 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [Opensubtitles](https://www.opensubtitles.org/en/search/subs) - 字幕站。
 - [subscene](https://subscene.com/) - 字幕站。
 - [the pirate bay](https://www.thepiratebay.org/) 种子资源网
+- [prism-break](https://prism-break.org/zh-CN/) - 隐私/安全 全套软件。
 
-## Tutorials
+### Hardware
 
-- [freecodecamp](https://www.freecodecamp.org/) 
-- [prototypr][prototypr] - 设计相关的新闻和工具
-- [Class Cental](https://www.classcentral.com) - 免费的网络和公开课搜索引擎，赶紧安排学习起来。
-- [Coursera](https://www.coursera.org/) - Coursera 的在线课程由世界上顶尖大学和公司的讲师提供教学。
-- [Udemy](https://www.udemy.com/) - Udemy 课程种类丰富，什么课程都有，类似于淘宝的在线教育平台。
-- [Khan Academy](https://zh.khanacademy.org/) - 可汗学院提供练习习题, 教学视频和个性化的学习界面，让学习者能够在课堂内外按照自己的进度学习。
-- [code.org](https://code.org/) - Code.org® 是一个非营利组织。它致力于为学校、妇女和少数族裔提供学习计算机科学的机会。 
-- [wikiHow](https://zh.wikihow.com/) - wikiHow 以「如何做某事」的提问方式，提供了很多实用的百科指南。
-- [DevTube](https://dev.tube/) -  The best developer videos in one place.
-- [i18ns](https://i18ns.com/zh/index.html) - App&Web 国际化翻译搜索。
-- [数学乐](https://www.shuxuele.com/) - 有趣及易懂的方法来演示数学，本网站旨在覆盖整个幼儿园到高中的数学课程。
-- [Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) - 计算机结构和编译电子书资源，javascript 版。
-- [AutoHotkey 学习指南](https://www.autohotkey.com/boards/viewtopic.php?f=29&t=1099) - AutoHotkey 中文学习指南。
-- [Developer Roadmaps](https://roadmap.sh/roadmaps) - Developer Roadmaps
-- [cambridgeHelp](https://dictionary.cambridge.org/help/codes.html#)
+- [RGBKB](https://www.rgbkb.net/) - RGBKB.net
+- [Vortexgear](http://www.vortexgear.tw/) - Vortexgear, Keyboard, Keyca
+- [ErgoDox EZ](https://ergodox-ez.com/) - An Incredible Mechanical Ergonomic Keyboard
+- [kinesis](https://kinesis-ergo.com/keyboards) - keyboards
+- [zFrontier](https://www.zfrontier.com/app/#new) - forums
 
 ## Miscellaneous
 
