@@ -35,7 +35,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [CCleaner][ccleaner] - 清理工具
 - [SpaceSniffer][spacesniffer] - 可视化电脑硬盘空间管理
 - [MacType](https://www.mactype.net/) 渲染 Windows 字体, 使其更好显示。
-- [Windows 系统](https://v0v.bid/) - 一句命令激活
+- [Windows 系统](https://jihuowin.com) - 一句命令激活
 - [Office Tool Plus][otoolplus] - Office Tool 是一个用于管理、下载、安装、激活 Office、Visio、Project 的小工具。
 - [Files Community](https://files.community/) - Files Community 是一个社区开发的window增强版文件管理器。适配window10/11风格 支持主题。更强大的功能
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
