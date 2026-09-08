@@ -407,7 +407,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 [sp]: https://sp.linci.co/
 [calibre]: https://calibre-ebook.com/
 [knotes]: https://knotesapp.cn/
-[potplayer]: http://potplayer.daum.net/?lang=zh_CN
+[potplayer]: https://potplayer.tv/
 [pxcook]: https://www.fancynode.com.cn/pxcook
 [colorleap]: https://colorleap.app/home
 [prototypr]: https://www.prototypr.io/home/
