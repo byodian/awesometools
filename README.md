@@ -105,6 +105,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 
 - [pdf.to](https://pdf.to/) - PDF 格式转换
 - [ilovepdf](https://www.ilovepdf.com/zh-cn) pdf 格式转换
+- [FileOnTap HEIC to PDF](https://fileontap.com/heic-to-pdf/) - Free browser-local HEIC to PDF converter, files never uploaded.
 - [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/)
 - [Chrome Extension Downloader][chrome extension downloader] - Chrome 扩展离线安装包
 - [Crx][crx] - 下载 Chrome 扩展离线安装包
