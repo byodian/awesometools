@@ -121,6 +121,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [bulletjournal](https://bulletjournal.app/) - 子弹笔记
 - [Learning Git Branching](https://learngitbranching.js.org/) - 关卡挑战，逐步深入的学习 Git 的功能。
 - [TDEE Calculator](https://tdeecalculator.net/) - 计算每天燃烧的卡路里。它首先提供基础的代谢消耗，然后这个值乘以活动因子，得出你在不同锻炼频率下的卡路里消耗值。
+- [Libre Calculator: Daily energy (TDEE) calculator](https://librecalculator.com/calculators/tdee/) - Daily-energy scenario estimates from resting energy and a chosen whole-day factor, with worked steps (English UI).
 - [extendsclass](https://extendsclass.com/) - Online Tools for Developers
 - [Real-time Air Quality Index](https://aqicn.org/city/beijing/) - [Real time](Real-time) Air Quality Index
 - [photopea](https://www.photopea.com/) - 免费的图像处理工具，操作习惯和外观与 photoshop 相似。
