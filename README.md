@@ -85,6 +85,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [sodaplayer](https://www.sodaplayer.com/) 种子播放器
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][typora] - markdown 编辑器
+- [Frink](https://frink.dev) - 桌面优先的开源（MIT）应用，可在你已经在用的各家 AI 编程服务商上运行并行智能体，以及由定时调度、Webhook 或 Linear、Sentry 等工具的事件触发的多步骤自定义工作流。
 
 ### Terminal
 - [Hyper](https://hyper.is/) - 一个漂亮并且可拓展的命令行终端。
