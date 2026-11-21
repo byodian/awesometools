@@ -177,6 +177,7 @@ Awesome Tools 为软件开发者们整理众多操作系统下实用的工具和
 - [网盘直链下载助手](https://www.baiduyun.wiki/) - 油猴脚本 一个免费脚本搞定网盘下载。
 - [Dualsub](https://dualsub.netlify.com/zh-cn/) - Youtube 双语字幕。
 - [YouTube™双字幕](https://www.dual-subtitles.com/) - Youtube 双字幕，搭配其他翻译工具可实现划词翻译
+- [GetYouTubeTranscript](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) - 在 YouTube 播放器旁显示带时间戳的字幕文稿，可搜索、复制、下载（TXT/SRT/VTT）并用 AI 总结。
 - [burningvocabulary](https://burningvocabulary.com/) - 在任何网页上给不认识的单词打标签
 - [Bionic Reading](https://bionic-reading.com/en/) - A higher dimension of reading.
 - [沙拉查词](https://saladict.crimx.com/) - 聚合多种词典，可划词翻译。
